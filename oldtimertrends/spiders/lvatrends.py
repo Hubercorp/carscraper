@@ -13,6 +13,7 @@ class Lvacrawler(Spider):
     def __init__(self):
         self.model = None
         self.year = None
+        self.current_url = None
  
     def parse (self, response):
         yield FormRequest.from_response(response,
@@ -26,7 +27,7 @@ class Lvacrawler(Spider):
     def analyze_auction(self, response):
         
         quote_id = response.request.url.split("=")[1]
-        print(self.model, "???????????")
+        #print(self.model, "!!!!!!!!!!model at AUCTION LEVEL!!!!!!!")
         for row in response.css('tr'):
                 
             print(self.model, "\\\\\\\\")
@@ -48,34 +49,39 @@ class Lvacrawler(Spider):
             mycar['auction_restauration_code'] = auction_restauration_code
             mycar['auction_price'] = auction_price
             mycar['auction_location'] = auction_location
-            print(mycar)
+            mycar['quote_id'] = quote_id
             yield mycar
 
 
                 
         next_page = response.css('.nextItem ::attr(href)').get()
-        if next_page:
+        if next_page is not None:
             next_page = response.urljoin("{}&idCote={}".format(next_page, quote_id))
             yield Request(next_page, callback=self.analyze_auction)
+        else: 
+            yield Request(self.current_url, callback=self.list_quotes)
     
     def list_quotes(self, response):
         auction_url = None
+        mycar= Car()
+        
         for quote in response.css('ul.cote li'):
-            
-            auction_url = quote.css('.link-result a::attr(href)').get()
             self.model = quote.css('strong a::text').get()
-            self.year = quote.css('.pricepad a::text').get()    
-            print(self.model, "okokokokokokoko")
+            self.year = quote.css('.pricepad a::text').get() 
+            auction_url = quote.css('.link-result a::attr(href)').get()
+            self.current_url = response.request.url
+            print(self.current_url,'-------URL------')
             if auction_url != None:
-                url = response.urljoin(auction_url)
-
-                yield Request(url, callback=self.analyze_auction)
+                 url = response.urljoin(auction_url)
+                
+                 yield Request(url, callback=self.analyze_auction)
+            
             # else:
-            #     mycar= Car()
-            #     mycar['model'] = model_quote
-            #     mycar['year'] = year_quote
-            #     print('////////',mycar)
-            #     yield mycar
+            #      mycar= Car()
+            #      mycar['model'] = self.model
+            #      mycar['year'] = self.year
+            #      print('without a',mycar)
+            #      yield mycar
 
             next_page = response.css('.nextItem ::attr(href)').get()
             if next_page != "javascript:void()":
