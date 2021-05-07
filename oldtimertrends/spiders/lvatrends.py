@@ -5,7 +5,7 @@ from oldtimertrends.items import Car
 
 class Lvacrawler(Spider):
     
-    code = ("MA55","MA124")
+    code = ("MA55","MA124","MA236")
     name = "lva_jean"
     start_urls = (
         'https://www.lva-auto.fr/compte/login',
@@ -21,13 +21,15 @@ class Lvacrawler(Spider):
 	                                                "send": ""},
                                         callback=self.after_login)
     def after_login(self, response):
-            yield Request(url = "https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1"
+            yield Request(url = "https://www.lva-auto.fr/cote.php?idMarque=MA236&idModele=-1&rechercheType=1"
             , callback=self.list_quotes)
     def analyze_auction(self, response):
         
         quote_id = response.request.url.split("=")[1]
+        print(self.model, "???????????")
         for row in response.css('tr'):
                 
+            print(self.model, "\\\\\\\\")
             auction_brand =  row.css('h2::text').get()
             auction_model =  row.css('td:nth-child(3)::text').get()
             auction_organizor =  row.xpath('normalize-space(td[4])').get()
@@ -46,7 +48,7 @@ class Lvacrawler(Spider):
             mycar['auction_restauration_code'] = auction_restauration_code
             mycar['auction_price'] = auction_price
             mycar['auction_location'] = auction_location
-
+            print(mycar)
             yield mycar
 
 
@@ -57,28 +59,24 @@ class Lvacrawler(Spider):
             yield Request(next_page, callback=self.analyze_auction)
     
     def list_quotes(self, response):
+        auction_url = None
         for quote in response.css('ul.cote li'):
             
             auction_url = quote.css('.link-result a::attr(href)').get()
-                
-            # model = quote.css('strong a::text').get()
-            # year = quote.css('.pricepad a::text').get()
             self.model = quote.css('strong a::text').get()
-            self.year = quote.css('.pricepad a::text').get()
-            # max_price = quote.css('.cote-max .pricepad::text').get(),
-            # auction_url = auction_url, 
-            # auctions = [],
-            # quote_id = quote_id
-            # mycar = Car()
-            # mycar['model'] = model
-            # mycar['year'] = year
-
-            # yield mycar
-
-            if auction_url:
+            self.year = quote.css('.pricepad a::text').get()    
+            print(self.model, "okokokokokokoko")
+            if auction_url != None:
                 url = response.urljoin(auction_url)
+
                 yield Request(url, callback=self.analyze_auction)
-            
+            # else:
+            #     mycar= Car()
+            #     mycar['model'] = model_quote
+            #     mycar['year'] = year_quote
+            #     print('////////',mycar)
+            #     yield mycar
+
             next_page = response.css('.nextItem ::attr(href)').get()
             if next_page != "javascript:void()":
                 next_page = response.urljoin(next_page)
