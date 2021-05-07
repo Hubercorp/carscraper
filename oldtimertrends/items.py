@@ -6,9 +6,11 @@
 import scrapy
 
 
-class OldtimertrendsItem(scrapy.Item):
+class Car(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
+    model = scrapy.Field()
+    year = scrapy.Field()
     auction_brand : scrapy.Field()
     auction_model : scrapy.Field()
     auction_model : scrapy.Field()
