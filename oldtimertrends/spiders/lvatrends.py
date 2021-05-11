@@ -10,7 +10,12 @@ class Lvacrawler(Spider):
     ]
    
     
-    
+    custom_settings = {
+        "DUPEFILTER_DEBUG":True,
+        "LOG_FILE": "log2102.txt" 
+    }
+
+ 
     def init (self):
         self.quoteid = None
 
@@ -25,19 +30,15 @@ class Lvacrawler(Spider):
                                         callback=self.after_login)
     def after_login(self, response):
         yield Request(url = "https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1"
-            , callback=self.list_quotes)
+            , callback=self.list_quotes, dont_filter= True)
         
 
     def analyze_auction(self, response):
         
         quote_id = response.request.url.split("=")[1] 
-        print('/////////////', quote_id)
-            # self.quoteid = quote_id
-        
-        
+            
         for row in response.css('tr'):
                 
-
             auction_brand =  row.css('h2::text').get()
             auction_model =  row.css('td:nth-child(3)::text').get()
             auction_organizor =  row.xpath('normalize-space(td[4])').get()
@@ -57,20 +58,22 @@ class Lvacrawler(Spider):
             mycar['auction_location'] = auction_location
             mycar['quote_id'] = quote_id
         # mycar['quote_id'] = self.quoteid
-            print("///////////////",mycar['quote_id'])
+            #print("///////////////",mycar['quote_id'])
             yield mycar
 
 
         next_page = response.css('.nextItem ::attr(href)').get()
+        print(type(next_page))
         
         if next_page is not None:
-            print("from///////////////////////////////",next_page)
-            next_page = response.urljoin(next_page)
-            url_for_next_page_1 = 'idCote={}&{}'.format(mycar['quote_id'], next_page)
-            url_for_next_page_2 = '{}&idCote={}'.format(next_page, mycar['quote_id'])
-            next_page = response.urljoin(url_for_next_page_2)
-            print("to///////////////////////////////",next_page)
-            yield Request(next_page, callback=self.list_quotes)
+            print("scrapped from css:",next_page)
+            
+            next_page = response.urljoin('{}&idCote={}'.format(next_page, mycar['quote_id']))
+            print("reconstructed:",next_page)
+            
+            yield Request(next_page, callback=self.analyze_auction, dont_filter=True)
+            print("!!!!!!!!!!auction next page yielded!!!!!!!!!!!")
+
     
     def list_quotes(self, response):
         
@@ -81,10 +84,10 @@ class Lvacrawler(Spider):
             # self.quoteid = quote_id
             # print("//////////////",self.quoteid)
 
-            if auction_url:
+            if auction_url is not None:
                  url = response.urljoin(auction_url)
                 
-                 yield Request(url, callback=self.analyze_auction)
+                 yield Request(url, callback=self.analyze_auction, dont_filter=True)
             
 
                 
@@ -92,7 +95,7 @@ class Lvacrawler(Spider):
         next_page = response.css('.nextItem ::attr(href)').get()
         if next_page != "javascript:void()":
                 next_page = response.urljoin(next_page)
-                yield Request(next_page, callback=self.list_quotes)
+                yield Request(next_page, callback=self.list_quotes, dont_filter=True)
 
 """ class OldtimertrendsItem(Item):
     # define the fields for your item here like:

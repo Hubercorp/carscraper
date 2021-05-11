@@ -1,0 +1,769 @@
+auction_brand,auction_location,auction_model,auction_organizor,auction_price,auction_restauration_code,auction_sales_code,model,quote_id,year
+,,,,,,,YB 1 1/4 Litre limousine,4356,1952
+MG,Scottsdale (Arizona),Arnolt cabriolet,Gooding & Co,81 400 €,REST+,V,YB 1 1/4 Litre limousine,4356,1952
+,,,,,,,YB 1 1/4 Litre limousine,4362,1952
+MG,Goodwood,Magna F roadster 6 cylindres,Bonhams,104 000 €,REST,V,YB 1 1/4 Litre limousine,4362,1952
+MG,Duxford,Magna F roadster,H & H Classic Auctions,84 060 €,REST,V,YB 1 1/4 Litre limousine,4362,1952
+MG,Amelia Island,"Magna F 2 roadster Jarvis, compresseur Arnott",RM Sotheby's,94 050 €,REST,V,YB 1 1/4 Litre limousine,4362,1952
+MG,Beaulieu,Magna F tourer 6-cyl. 1.3 l,Bonhams,29 920 €,REST,V,YB 1 1/4 Litre limousine,4362,1952
+MG,Coventry,Magna F 1 tourer,Silverstone Auctions,45 560 €,REST,V,YB 1 1/4 Litre limousine,4362,1952
+,,,,,,,YB 1 1/4 Litre limousine,4363,1952
+MG,Paris,Magna F 2 Foursome Coupé toit ouvrant,Artcurial Motorcars,83 440 €,OR+,V,YB 1 1/4 Litre limousine,4363,1952
+,,,,,,,YB 1 1/4 Litre limousine,4364,1952
+MG,Monterey,"Magna L roadster (6 cylindres 1,1 l)",RM Sotheby's,70 150 €,REST,V,YB 1 1/4 Litre limousine,4364,1952
+MG,Beaulieu,Magna L roadster 6-cyl 1.1 l,Bonhams,66 130 €,REST,V,YB 1 1/4 Litre limousine,4364,1952
+,,,,,,,YB 1 1/4 Litre limousine,11429,1952
+MG,Buxton,Magna L 1 Tourer (L 0454),H & H Classic Auctions,45 900 €,REST,V,YB 1 1/4 Litre limousine,11429,1952
+MG,Goodwood,Magna L roadster recarrossé,Bonhams,37 400 €,REST/TR,V,YB 1 1/4 Litre limousine,11429,1952
+,,,,,,,YB 1 1/4 Litre limousine,4366,1952
+MG,goodwood,Magnette K 1 berline 6 cylindres,Bonhams,28 100 €,OR-,V,YB 1 1/4 Litre limousine,4366,1952
+,,,,,,,Maestro 2.0 Turbo 5 portes,4368,1989
+MG,goodwood,Magnette K 2 roadster 6 cylindres,Bonhams,120 430 €,RAR,V,Maestro 2.0 Turbo 5 portes,4368,1989
+MG,Cernobbio,"Magnette K 3 roadster, palmarès (K 3001)",RM Auctions,408 800 €,EX,V,Maestro 2.0 Turbo 5 portes,4368,1989
+,,,,,,,Maestro 2.0 Turbo 5 portes,4367,1989
+MG,Avignon,Magnette K 1 tourer 6 cylindres,Leclère Motorcars,62 400 €,REST,V,Maestro 2.0 Turbo 5 portes,4367,1989
+,,,,,,,Maestro 2.0 Turbo 5 portes,4370,1989
+MG,Beaulieu,Magnette NA tourer Wittingham & Mitchell (N701),Bonhams,87 369 €,REST+,V,Maestro 2.0 Turbo 5 portes,4370,1989
+MG,Goodwood,Magnette NA monoplace,Bonhams,111 240 €,REST/TR,V,Maestro 2.0 Turbo 5 portes,4370,1989
+,,,,,,,Maestro 2.0 Turbo 5 portes,4369,1989
+MG,Goodwood,"Magnette KN roadster UM Special, compresseur",Bonhams,107 510 €,REST,V,Maestro 2.0 Turbo 5 portes,4369,1989
+,,,,,,,Maestro 2.0 Turbo 5 portes,4371,1989
+MG,Goodwood,Magnette NE roadster 6-cyl. victorieuse du RAC-TT,Bonhams,211 780 €,REST,V,Maestro 2.0 Turbo 5 portes,4371,1989
+MG,Carmel,Magnette NB tourer Carbodies,Bonhams,78 000 €,REST,V,Maestro 2.0 Turbo 5 portes,4371,1989
+MG,Beaulieu,Magnette ND/NE roadster 6-cyl. spécial,Bonhams,102 510 €,REST/TR,V,Maestro 2.0 Turbo 5 portes,4371,1989
+MG,London,Magnette NB coupé 6 cylindres,RM Auctions,145 600 €,REST,V,Maestro 2.0 Turbo 5 portes,4371,1989
+,,,,,,,Maestro 2.0 Turbo 5 portes,4373,1989
+MG,Tupelo,VA 1 1/2 Litre tourer,Bonhams,25 960 €,RAR,V,Maestro 2.0 Turbo 5 portes,4373,1989
+MG,Brooklands,VA 1.5 l tourer 4-cyl ,Historics at Brooklands,21 848 €,REST,V,Maestro 2.0 Turbo 5 portes,4373,1989
+MG,Paris,VA 1 1/2 Litre tourer,Bonhams,25 300 €,REST,V,Maestro 2.0 Turbo 5 portes,4373,1989
+MG,Beaulieu,VA 1 1/2 Litre tourer,Bonhams,16 044 €,REC,V,Maestro 2.0 Turbo 5 portes,4373,1989
+,,,,,,,Maestro 2.0 Turbo 5 portes,4375,1989
+MG,Pebble Beach,SA 2 Litre Tourer,Gooding & Co,141 850 €,REST,V,Maestro 2.0 Turbo 5 portes,4375,1989
+MG,Beaulieu,SA 6-cyl. 2 litres tourer,Bonhams,55 900 €,REST,V,Maestro 2.0 Turbo 5 portes,4375,1989
+MG,Weybridge,SA 2 litre tourer Charlesworth,Bonhams,53 867 €,REST+,V,Maestro 2.0 Turbo 5 portes,4375,1989
+MG,London,SA 2 Litre tourer 6 cylindres,RM Auction,71 250 €,REST,V,Maestro 2.0 Turbo 5 portes,4375,1989
+,,,,,,,Maestro 2.0 Turbo 5 portes,4374,1989
+MG,Reims,SA 2 Litre berline,HdV Porte de Mars (Guizzetti-Collet),11 400 €,REC/INC,V,Maestro 2.0 Turbo 5 portes,4374,1989
+MG,Montastruc,SA 2 Litre Saloon,FEE Machoïr,27 600 €,OR+,V,Maestro 2.0 Turbo 5 portes,4374,1989
+MG,Duxford,SA 2 Litre Saloon,H & H Classic Auctions,42 437 €,REST,V,Maestro 2.0 Turbo 5 portes,4374,1989
+,,,,,,,Maestro 2.0 Turbo 5 portes,4376,1989
+MG,Reims,SA 2 Litre cabriolet Tickford,HdV Porte de Mars (Guizzetti-Collet),14 400 €,REC/INC,V,Maestro 2.0 Turbo 5 portes,4376,1989
+MG,Londres,SA 2 Litre cabriolet Tickford (SA 2507),Bonhams,12 300 €,OR-,V,Maestro 2.0 Turbo 5 portes,4376,1989
+,,,,,,,Maestro 2.0 Turbo 5 portes,7813,1989
+MG,Goodwood,"YB 1 1/4 Litre limousine RHD “UHK 111""",Bonhams,9 000 €,RAR,V,Maestro 2.0 Turbo 5 portes,7813,1989
+MG,Leominster,YB 1 1/4 Litre limousine RHD,Brightwells,19 050 €,REST+,V,Maestro 2.0 Turbo 5 portes,7813,1989
+,,,,,,,Maestro 2.0 Turbo 5 portes,4380,1989
+MG,Sparkford,YA 1 1/4 Litre limousine RHD,H & H Classic Auctions,11 260 €,REST+,V,Maestro 2.0 Turbo 5 portes,4380,1989
+MG,Toffen,YA 1 1/4 Litre limousine,Oldtimer Galerie,10 520 €,OR,V,Maestro 2.0 Turbo 5 portes,4380,1989
+MG,Cheltenham,YA 1 1/4 Litre limousine RHD,H & H Classic Auctions,9 110 €,REST,V,Maestro 2.0 Turbo 5 portes,4380,1989
+MG,Beaulieu,YA 1 1/4 Litre limousine RHD,Bonhams,6 750 €,REST,V,Maestro 2.0 Turbo 5 portes,4380,1989
+MG,Buxton,YA 1 1/4 Litre limousine RHD toit ouvrant,H & H Classic Auctions,3 000 €,OR,V,Maestro 2.0 Turbo 5 portes,4380,1989
+MG,Buxton,YA 1 1/4 Litre limousine RHD toit ouvrant,H & H Classic Auctions,9 300 €,REST+,V,Maestro 2.0 Turbo 5 portes,4380,1989
+MG,Brooklands,YA 1 1/4 Litre limousine RHD,BCA Classic & Historic,6 600 €,REST,V,Maestro 2.0 Turbo 5 portes,4380,1989
+,,,,,,,Midget PB roadster,4382,1935
+MG,Goodwood,"Magnette ZA, prép. circuit",Bonhams,22 320 €,REST/TR,V,Midget PB roadster,4382,1935
+MG,OxfOrd,Magnette ZA berline RHD,Bonhams,6 380 €,REST,V,Midget PB roadster,4382,1935
+MG,Toffen,Magnette ZA berline LHD,Oldtimer Galerie Toffen,7 800 €,OR+,V,Midget PB roadster,4382,1935
+,,,,,,,Midget PB roadster,4381,1935
+MG,Greenwich,YT 1 1/4 Litre tourer,Bonhams,20 560 €,REST,V,Midget PB roadster,4381,1935
+MG,Toffen,"YT 1 1/4 Litre tourer LHD, roues fil",Oldtimer Galerie Toffen,55 900 €,REST+,V,Midget PB roadster,4381,1935
+,,,,,,,Midget PB roadster,7814,1935
+MG,Beaulieu,Magnette ZB berline,Bonhams,12 830 €,REST,V,Midget PB roadster,7814,1935
+MG,Brooklands,Magnette ZB berline Varitone RHD,Historics at Brooklands,17 350 €,REST,V,Midget PB roadster,7814,1935
+MG,Londres,Magnette ZB Varitone berline RHD,Bonhams,10 450 €,REST,V,Midget PB roadster,7814,1935
+MG,OxfOrd,Magnette ZB berline RHD,Bonhams,10 450 €,REST+,V,Midget PB roadster,7814,1935
+MG,Londres,Magnette ZB berline LHD ex-Belgique,Bonhams,4 800 €,OR,V,Midget PB roadster,7814,1935
+,,,,,,,Midget PB roadster,4383,1935
+MG,Milan,Magnette Mark III berline LHD,RM Sotheby's,8 960 €,OR+,V,Midget PB roadster,4383,1935
+,,,,,,,Midget PB roadster,9001,1935
+MG,Goodwood,Metro 6 R 4 Groupe B Rothmans,Bonhams,135 000 €,REST,V,Midget PB roadster,9001,1935
+MG,Stoneleigh Park,"Metro 6 R 4 Groupe B, palmarès",Bonhams,51 000 €,EX,V,Midget PB roadster,9001,1935
+,,,,,,,Midget PB roadster,9000,1935
+MG,Paris,Metro Turbo,Bonhams,9 200 €,OR+,V,Midget PB roadster,9000,1935
+MG,Esvres sur Indre,"Metro 1.3 Turbo, préparée piste",Alcopa Auction Tours,3 270 €,TR,V,Midget PB roadster,9000,1935
+MG,Coventry,Metro 6 R 4 Groupe B,Silverstone Auctions,54 516 €,TR,V,Midget PB roadster,9000,1935
+,,,,,,,Midget PB roadster,8999,1935
+MG,Gaydon,"Metro 1.3 RHD (dernière produite, 393 miles origin",Bonhams,4 500 €,EX,V,Midget PB roadster,8999,1935
+,,,,,,,Midget PB roadster,7818,1935
+MG,Brooklands,1300 Mark II coach,Historics at Brooklands,5 030 €,REST,V,Midget PB roadster,7818,1935
+MG,Harrogate,"1300 Mark II coach RHD, toit Webasto",Bonhams,2 360 €,REST,V,Midget PB roadster,7818,1935
+MG,Buxton,1300 Mark II coach RHD,H & H Classic Auctions,5 250 €,OR+,V,Midget PB roadster,7818,1935
+,,,,,,,Midget PB roadster,4384,1935
+MG,Sains-lès-Fressins,1100 berline,Jauffrey Burgeat,1 720 €,SEP,V,Midget PB roadster,4384,1935
+MG,Blackbushe,1100 berline RHD (27 000 miles d'origine),BCA Classic & Historic,3 900 €,OR+,V,Midget PB roadster,4384,1935
+MG,Harrogate,1100 berline RHD,Bonhams,4 200 €,REST+,V,Midget PB roadster,4384,1935
+MG,Blackbushe,"1100 berline RHD, 27 000 miles d'origine",BCA Classic & Historic,4 810 €,OR+,V,Midget PB roadster,4384,1935
+,,,,,,,Midget 1500 cabriolet,11980,1975
+MG,Toffen,ZT-T break,Oldtimer Galerie Toffen,3 310 €,OR+,V,Midget 1500 cabriolet,11980,1975
+,,,,,,,Midget 1500 cabriolet,4386,1975
+MG,Toffen,Midget M roadster (850 ACT),Oldtimer Galerie,26 990 €,REST,V,Midget 1500 cabriolet,4386,1975
+MG,Lyon (Epoqu'auto),Midget M roadster pointe simili,Jean-Pierre Osenat,33 380 €,REST+,V,Midget 1500 cabriolet,4386,1975
+MG,Beaulieu,Midget M roadster (850 ACT),Bonhams,17 440 €,REST,V,Midget 1500 cabriolet,4386,1975
+MG,CadaujaC,Midget M roadster simili (CG coll.),SVV Briscadieu / M. Saint-Gal,23 000 €,REST+,V,Midget 1500 cabriolet,4386,1975
+MG,Montastruc,Midget M roadster,F.E.E. Machoïr,21 000 €,REST,V,Midget 1500 cabriolet,4386,1975
+MG,Beaulieu,Midget M “Double Twelve” roadster,Bonhams,17 250 €,REST,V,Midget 1500 cabriolet,4386,1975
+MG,Cheltenham,Midget M roadster simili (1360),H & H Classic Auctions,19 380 €,REST,V,Midget 1500 cabriolet,4386,1975
+,,,,,,,Midget 1500 cabriolet,4389,1975
+MG,Chipping Norton,Midget J tourer 4 places (850 ACT) RHD,Silverstone Auctions,24 480 €,REST,V,Midget 1500 cabriolet,4389,1975
+MG,Londres,Midget J 1 Special Sports,Bonhams,23 480 €,REST,V,Midget 1500 cabriolet,4389,1975
+,,,,,,,Midget 1500 cabriolet,7820,1975
+MG,Goodwood,Midget J 4 Midget roadster (750 à compresseur) compétition usine,Bonhams,285 580 €,REST,V,Midget 1500 cabriolet,7820,1975
+,,,,,,,Midget 1500 cabriolet,4390,1975
+MG,Duxford,Midget J 2 roadster (850 ACT),H and H,24 680 €,REST,V,Midget 1500 cabriolet,4390,1975
+MG,Beaulieu,Midget J 2 roadster (850 ACT),Bonhams,31 220 €,REST,V,Midget 1500 cabriolet,4390,1975
+MG,Silverstone,Midget J 2 roadster,Silverstone Auctions,35 200 €,REST,V,Midget 1500 cabriolet,4390,1975
+MG,Brooklands,J 2 roadster,Historics at Brooklands,32 993 €,REST,V,Midget 1500 cabriolet,4390,1975
+MG,Lyon (Brotteaux),Midget J 2 roadster,SVV Aguttes,54 000 €,REST,V,Midget 1500 cabriolet,4390,1975
+MG,Harrogate,Midget J 2 roadster modifié J 4,Bonhams,55 796 €,REST/TR,V,Midget 1500 cabriolet,4390,1975
+MG,Monaco,Midget J 2 roadster (850 ACT),Bonhams,44 000 €,REST,V,Midget 1500 cabriolet,4390,1975
+MG,Goodwood,Midget J 2 roadster (J 3571),Bonhams,32 450 €,REST,V,Midget 1500 cabriolet,4390,1975
+MG,Beaulieu,Midget J 2 roadster,Bonhams,19 250 €,REST,V,Midget 1500 cabriolet,4390,1975
+,,,,,,,Midget 1500 cabriolet,4391,1975
+MG,Leominster,Midget PA roadster,Brightwells,23 960 €,REST,V,Midget 1500 cabriolet,4391,1975
+MG,Beaulieu,Midget PA roadster,Bonhams,28 510 €,REST,V,Midget 1500 cabriolet,4391,1975
+MG,Santa Monica,Midget PA roadster,RM Sotheby's,25 550 €,REST,V,Midget 1500 cabriolet,4391,1975
+MG,Scottsdale,Midget PA Tourer,Bonhams,31 040 €,REST,V,Midget 1500 cabriolet,4391,1975
+MG,Londres,Midget PA Le Mans ex-Dancing Daughters,RM Sotheby's,206 690 €,REST,V,Midget 1500 cabriolet,4391,1975
+MG,Coventry,Midget PA roadster à compresseur,Silverstone Auctions,43 070 €,TR/REST,V,Midget 1500 cabriolet,4391,1975
+MG,Fontainebleau,Midget PA roadster,Jean-Pierre Osenat,26 000 €,REST+,V,Midget 1500 cabriolet,4391,1975
+MG,Toffen,Midget PA roadster,Oldtimer Galerie Toffen,40 000 €,OR+,V,Midget 1500 cabriolet,4391,1975
+MG,Harrogate,"Midget PA roadster, moteur Morris 1100",Bonhams,7 500 €,RET/TR,V,Midget 1500 cabriolet,4391,1975
+MG,Kempton Park,PA racer monoplace Les Keeling,H & H Classic Auctions,43 500 €,TR,V,Midget 1500 cabriolet,4391,1975
+MG,Londres,Midget PA roadster,Bonhams,16 130 €,RAR,V,Midget 1500 cabriolet,4391,1975
+,,,,,,,Midget 1500 cabriolet,7821,1975
+MG,Paris,Midget PB roadster,Artcurial Motorcars,52 450 €,REST,V,Midget 1500 cabriolet,7821,1975
+MG,Paris,Midget PB roadster,Artcurial,20 000 €,REST+,V,Midget 1500 cabriolet,7821,1975
+MG,Birmingham,Midget PB roadster (PB 0328),Coys Auctions,24 300 €,REST,V,Midget 1500 cabriolet,7821,1975
+,,,,,,,MGB GT V8 coupé (pare-chocs USA),4393,1975
+MG,Amelia Island,Midget PA Airline coupé,Bonhams,119 030 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4393,1975
+,,,,,,,MGB GT V8 coupé (pare-chocs USA),4395,1975
+MG,Amelia Island,Midget TA cabriolet Tickford,RM Sotheby's,79 920 €,REST+,V,MGB GT V8 coupé (pare-chocs USA),4395,1975
+MG,Hershey,MG TA cabriolet Tickford,RM Sotheby's,68 915 €,REST+,V,MGB GT V8 coupé (pare-chocs USA),4395,1975
+MG,Londres,Midget TA cabriolet Tickford,Bonhams,20 414 €,REC,V,MGB GT V8 coupé (pare-chocs USA),4395,1975
+MG,Buxton,Midget (Mark I) roadster RHD,H & H Classic Auctions,6 887 €,REST+,V,MGB GT V8 coupé (pare-chocs USA),4395,1975
+MG,AmeliA IslAnd,Midget TA cabriolet Tickford,RM Auctions,73 800 €,REST+,V,MGB GT V8 coupé (pare-chocs USA),4395,1975
+,,,,,,,MGB GT V8 coupé (pare-chocs USA),4394,1975
+MG,Montlhéry,Midget TA roadster Q-type,Aguttes,71 050 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4394,1975
+MG,Brooklands,"Midget TA roadster, ex-police",Historics at Brooklands,33 029 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4394,1975
+MG,Beaulieu,Midget TA Spécial (moteur Ford latéral),Bonhams,3 740 €,SEP/TR,V,MGB GT V8 coupé (pare-chocs USA),4394,1975
+MG,Beaulieu,Midget TA roadster,Bonhams,28 710 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4394,1975
+MG,Nysted,Midget TA roadster,RM Auctions,33 768 €,OR+,V,MGB GT V8 coupé (pare-chocs USA),4394,1975
+MG,Glamis,Midget TA roadster,Strathmore Vintage Vehicle Club,16 990 €,RAR,V,MGB GT V8 coupé (pare-chocs USA),4394,1975
+MG,Stoneleigh Park,Midget TA “Special”,H & H Classic Auctions,40 120 €,REST/TR,V,MGB GT V8 coupé (pare-chocs USA),4394,1975
+MG,Goodwood,"Midget TA réplique type Q, compresseur",Bonhams,37 630 €,REST/TR,V,MGB GT V8 coupé (pare-chocs USA),4394,1975
+MG,Brooklands,Midget TA “Special” roadster,Historics at Brooklands,30 550 €,TR,V,MGB GT V8 coupé (pare-chocs USA),4394,1975
+MG,Gröbming,Midget TA roadster,Dorotheum Salzburg,25 500 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4394,1975
+MG,Padoue,Midget TA roadster,Coys (Europe),26 000 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4394,1975
+MG,Goodwood,Midget TA roadster (TA 0708),Bonhams,11 250 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4394,1975
+MG,Stoneleigh Park,Midget TA roadster (TA0993),Bonhams,12 600 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4394,1975
+,,,,,,,MGB GT V8 coupé (pare-chocs USA),7822,1975
+MG,Brooklands,Midget TB roadster,Historics at Brooklands,36 599 €,REST,V,MGB GT V8 coupé (pare-chocs USA),7822,1975
+MG,Beaulieu,Midget TB roadster,Bonhams,22 670 €,REST,V,MGB GT V8 coupé (pare-chocs USA),7822,1975
+MG,Greenwich,Midget TA cabriolet Tickford (TA 2926),Bonhams & Butterfields,29 750 €,REST+,V,MGB GT V8 coupé (pare-chocs USA),7822,1975
+MG,Birmingham,Midget TB cabriolet Tickford (TB 0402),Coys Auctions,23 630 €,REST,V,MGB GT V8 coupé (pare-chocs USA),7822,1975
+,,,,,,,MGB GT V8 coupé (pare-chocs USA),4397,1975
+MG,Brooklands,TD roadster LHD,Historics at Brooklands,10 090 €,REST-,V,MGB GT V8 coupé (pare-chocs USA),4397,1975
+MG,Auburn,TD Mk II roadster,RM Sotheby's,24 600 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4397,1975
+MG,Greenwich,TD roadster,Bonhams,17 550 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4397,1975
+MG,Fontainebleau,"TD roadster RHD, roues disque",Jean-Pierre Osenat,19 800 €,OR+,V,MGB GT V8 coupé (pare-chocs USA),4397,1975
+MG,Brooklands,TD roadster,Historics at Brooklands,17 710 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4397,1975
+MG,Leominster,TD roadster,Brightwells,17 650 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4397,1975
+MG,Tupelo,"TD roadster LHD, roues disque",Bonhams,1 800 €,SEP,V,MGB GT V8 coupé (pare-chocs USA),4397,1975
+MG,Tupelo,"TD roadster LHD, roues disque",Bonhams,1 000 €,SEP/INC,V,MGB GT V8 coupé (pare-chocs USA),4397,1975
+MG,Fort Lauderdale,TD roadster,RM Sotheby,29 370 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4397,1975
+MG,Fort Lauderdale,TD roadster,RM Sotheby,15 660 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4397,1975
+MG,Amelia Island,TD roadster RHD,RM Sotheby,12 970 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4397,1975
+MG,Scottsdale,TD roadster,Gooding Co.,16 750 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4397,1975
+MG,Toffen,TD roadster,Oldtimer Galerie,22 640 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4397,1975
+MG,Paris,"TD roadster LHD, roues fil",Leclère MDV,46 800 €,REST+,V,MGB GT V8 coupé (pare-chocs USA),4397,1975
+MG,Fontainebleau,"TD roadster LHD, roues disque",Osenat,22 800 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4397,1975
+MG,Hershey,TD roadster,RM Sotheby's,20 880 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4397,1975
+,,,,,,,MGB GT V8 coupé (pare-chocs USA),4396,1975
+MG,Toffen,TC roadster,Oldtimer Galerie,44 120 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4396,1975
+MG,Fort Lauderdale,TC roadster,RM Sotheby,27 410 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4396,1975
+MG,Duxford,TC roadster RHD,H and H,26 310 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4396,1975
+MG,Toffen,TC roadster,Oldtimer Galerie,20 890 €,OR+,V,MGB GT V8 coupé (pare-chocs USA),4396,1975
+MG,Quail Lodge,TC roadster,Bonhams,96 290 €,OR+,V,MGB GT V8 coupé (pare-chocs USA),4396,1975
+MG,Quail Lodge,TC roadster prép. course,Bonhams,38 510 €,REST/TR,V,MGB GT V8 coupé (pare-chocs USA),4396,1975
+MG,Quail Lodge,TC roadster Kerrigan Special,Bonhams,44 290 €,REST/TR,V,MGB GT V8 coupé (pare-chocs USA),4396,1975
+MG,Quail Lodge,TC roadster,Bonhams,26 960 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4396,1975
+MG,Brooklands,TC roadster,Historics at Brooklands,28 490 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4396,1975
+MG,Auburn,TC roadster,RM Sotheby's,26 240 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4396,1975
+MG,Hershey,TC roadster ex-Jim Hall,RM Sotheby's,18 290 €,OR+,V,MGB GT V8 coupé (pare-chocs USA),4396,1975
+MG,Philadelphie,TC roadster,Bonhams,19 190 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4396,1975
+MG,Goodwood,TC roadster,Bonhams,31 500 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4396,1975
+MG,Silverstone,TC roadster,Silverstone Auctions,24 770 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4396,1975
+MG,Scottsdale,TC roadster,Barrett-Jackson,28 960 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4396,1975
+MG,Scottsdale,"TC roadster, à compresseur",Bonhams,56 900 €,REST+,V,MGB GT V8 coupé (pare-chocs USA),4396,1975
+,,,,,,,MGB GT V8 coupé (pare-chocs USA),4398,1975
+MG,Ascott,TD Mark II roadster RHD,Historics at Brooklands,19 190 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4398,1975
+MG,Brooklands,"TD Mark II roadster RHD, roues fil",Historics,17 210 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4398,1975
+MG,Sainte-Geneviève,"TD roadster LHD, roues disque",Australe,15 000 €,OR,V,MGB GT V8 coupé (pare-chocs USA),4398,1975
+,,,,,,,MGB GT V8 coupé (pare-chocs USA),4400,1975
+MG,Brooklands,TF 1500 roadster RHD,Historics at Brooklands,29 950 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4400,1975
+MG,Fontainebleau,"TF 1500 roadster LHD, roues disque",Jean-Pierre Osenat,25 200 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4400,1975
+MG,Fort Lauderdale,TF 1500 roadster,RM Sotheby,28 390 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4400,1975
+MG,Duxford,TF 1500 roadster (1ère RHD produite),H and H Classics,37 380 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4400,1975
+MG,Fontainebleau,TF 1500 roadster,Osenat,30 000 €,OR,V,MGB GT V8 coupé (pare-chocs USA),4400,1975
+MG,Lyon,TF 1500 roadster (BV 5),Osenat,32 400 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4400,1975
+MG,Le Mans,TF 1500 roadster,Artcurial Motorcars,47 680 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4400,1975
+MG,Scottsdale,TF 1500 roadster,Gooding & Co.,76 560 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4400,1975
+MG,Beaulieu,TF 1500 roadster,Bonhams,29 450 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4400,1975
+MG,Paris,"TF 1500 roadster LHD, roues fil",Bonhams,51 750 €,REST+,V,MGB GT V8 coupé (pare-chocs USA),4400,1975
+MG,Beaulieu,"TF 1250 roadster LHD, 9 000 miles d'origine",Bonhams,43 125 €,EX,V,MGB GT V8 coupé (pare-chocs USA),4400,1975
+MG,Beaulieu,TF 1500 roadster LHD,Bonhams,25 580 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4400,1975
+MG,AmeliA IslAnd,TF 1500 roadster LHD,Gooding & Company,15 840 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4400,1975
+MG,Fontainebleau,"TF 1500 roadster RHD, roues fil",Jean-Pierre Osenat,26 000 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4400,1975
+MG,Sainte-Geneviève,"TF 1500 roadster LHD, roues fil",Australe,17 000 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4400,1975
+MG,Toffen,TF 1500 roadster,Oldtimer Galerie Toffen,27 200 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4400,1975
+,,,,,,,MGB GT V8 coupé (pare-chocs USA),4406,1975
+MG,Leominster,Midget 1500 cabriolet,Brightwells,3 780 €,OR,V,MGB GT V8 coupé (pare-chocs USA),4406,1975
+MG,Los Angeles,Midget 1500 cabriolet LHD,RM Sotheby's,10 460 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4406,1975
+MG,Esvres-sur-Indre,Midget 1500 cabriolet,Alcopa,24 450 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4406,1975
+MG,Goodwood,Midget 1500 Limited Edition RHD (neuve),Bonhams,32 690 €,EX,V,MGB GT V8 coupé (pare-chocs USA),4406,1975
+MG,Ascot,Midget 1500 cabriolet,Historics at Brooklands,2 990 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4406,1975
+MG,Saint-Omer,Midget 1500 cabriolet RHD,HdV Saint-Omer (Me Fourquet),7 800 €,OR,V,MGB GT V8 coupé (pare-chocs USA),4406,1975
+MG,Toffen,Midget 1500 cabriolet LHD,Oldtimer Galerie Toffen,6 672 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4406,1975
+MG,Brooklands,Midget 1500 cabriolet RHD,Historics at Brooklands,6 362 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4406,1975
+MG,OxfOrd,Midget 1500 cabriolet RHD,Bonhams,2 090 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4406,1975
+MG,Sparkford,Midget 1500 cabriolet RHD,H & H Classic Auctions,5 270 €,REST+,V,MGB GT V8 coupé (pare-chocs USA),4406,1975
+MG,Harrogate,"Midget 1500 cabriolet RHD, 105 miles origine",Bonhams,6 490 €,EX,V,MGB GT V8 coupé (pare-chocs USA),4406,1975
+MG,Kidlington,Midget 1500 cabriolet RHD,Bonhams,220 €,OR-,V,MGB GT V8 coupé (pare-chocs USA),4406,1975
+MG,Kidlington,Midget 1500 cabriolet RHD,Bonhams,3 080 €,OR+,V,MGB GT V8 coupé (pare-chocs USA),4406,1975
+MG,Buxton,Midget 1500 cabriolet RHD,H & H,1 820 €,OR,V,MGB GT V8 coupé (pare-chocs USA),4406,1975
+MG,Harrogate,Midget 1500 cabriolet RHD,Bonhams,2 700 €,OR,V,MGB GT V8 coupé (pare-chocs USA),4406,1975
+MG,Leominster,Midget 1500 cabriolet RHD,Brightwells,2 330 €,OR,V,MGB GT V8 coupé (pare-chocs USA),4406,1975
+,,,,,,,MGB GT V8 coupé (pare-chocs USA),4405,1975
+MG,La Mézière,Midget 1300 cabriolet,Alcopa Auction,5 650 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4405,1975
+MG,Beaulieu,Midget 1300 (Mark IV) cabriolet RHD,Bonhams,2 323 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4405,1975
+MG,Brooklands,Midget 1300 cabriolet,Historics,2 270 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4405,1975
+MG,Buxton,Midget 1300 cabriolet RHD,H & H Classic Auctions,3 030 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4405,1975
+MG,Buxton,Midget 1300 RHD préparée course,H & H Classic Auctions,3 360 €,TR,V,MGB GT V8 coupé (pare-chocs USA),4405,1975
+MG,Buxton,Midget 1300 cabriolet RHD,H & H Classic Auctions,3 520 €,OR+,V,MGB GT V8 coupé (pare-chocs USA),4405,1975
+MG,Sandown Park,Midget 1300 cabriolet RHD,Barons Auctions,7 350 €,REST+,V,MGB GT V8 coupé (pare-chocs USA),4405,1975
+MG,Sandown Park,Midget 1300 cabriolet RHD,Barons,5 480 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4405,1975
+MG,Sandown Park,Midget 1300 cabriolet RHD,Barons,5 020 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4405,1975
+MG,Buxton,Midget 1300 cabriolet RHD,H & H Classic Auctions,2 850 €,OR,V,MGB GT V8 coupé (pare-chocs USA),4405,1975
+MG,Fontainebleau,Midget 1300 cabriolet LHD,Jean-Pierre Osenat,5 500 €,REST-,V,MGB GT V8 coupé (pare-chocs USA),4405,1975
+,,,,,,,MGB GT V8 coupé (pare-chocs USA),4404,1975
+MG,Leominster,Midget Mark III cabriolet (1275) RHD,Brightwells,10 590 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4404,1975
+MG,Tupelo,Midget Mark III cabriolet LHD,Bonhams,500 €,SEP,V,MGB GT V8 coupé (pare-chocs USA),4404,1975
+MG,Buxton,Midget Mark III cabriolet RHD,H and H,5 960 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4404,1975
+MG,Paris,Midget Mark III cabriolet (1275),Artcurial,13 110 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4404,1975
+MG,Ascot,Midget Mark III cabriolet hard-top,Historics at Brooklands,10 410 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4404,1975
+MG,Fléville devant Nancy,"Midget Mark III cabriolet USA, roues fil",Alcopa Auction Nancy,4 630 €,OR-,V,MGB GT V8 coupé (pare-chocs USA),4404,1975
+MG,Brooklands,Midget Mark III cabriolet,Historics at Brooklands,14 238 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4404,1975
+MG,Brooklands,Midget 1500 coupé Ashley RHD,Historics at Brooklands,9 860 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4404,1975
+MG,Auvers sur Oise,"Midget Mark III cabriolet RHD, hard-top, roues fil",SVV Le Calvez & Associés,7 510 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4404,1975
+MG,Metz,"Midget Mark III cabriolet LHD, roues fil",SVV Bailly & Hertz,7 000 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4404,1975
+MG,Sandown Park,Midget Mark III cabriolet RHD,Barons,2 970 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4404,1975
+MG,Buxton,Midget Mark III cabriolet RHD,H & H,4 160 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4404,1975
+MG,Tours,"Midget Mark III cabriolet LHD, roues fil",SVV Chinon (M. Herbelin) / M. So,6 000 €,RAR,V,MGB GT V8 coupé (pare-chocs USA),4404,1975
+,,,,,,,MGB GT V8 coupé (pare-chocs USA),4403,1975
+MG,Sandown Park,Midget Mark II cabriolet RHD,Barons,2 640 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4403,1975
+MG,Buxton,Midget Mark II cabriolet RHD,H & H,7 410 €,REST+,V,MGB GT V8 coupé (pare-chocs USA),4403,1975
+MG,Marseille,Midget Mark II cabriolet LHD (sans capote),Motion / Damien Leclère,10 000 €,OR+,V,MGB GT V8 coupé (pare-chocs USA),4403,1975
+MG,Blackbushe,"Midget Mark II cabriolet RHD, moteur 1500, arceau",BCA Classic & Historic,3 600 €,REST-/TR,V,MGB GT V8 coupé (pare-chocs USA),4403,1975
+MG,Sandown Park,Midget Mark III cabriolet RHD,Barons Auctions,7 800 €,OR+,V,MGB GT V8 coupé (pare-chocs USA),4403,1975
+MG,Harrogate,Midget Mark II cabriolet RHD,Bonhams,2 850 €,REST-,V,MGB GT V8 coupé (pare-chocs USA),4403,1975
+,,,,,,,MGB GT V8 coupé (pare-chocs USA),4402,1975
+MG,La Teste de Buch,Midget 1100 Mark I roadster LHD,Osenat,12 000 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4402,1975
+MG,Pau,Midget (Mark I) roadster 1098 cm3,Carrère & Laborie,14 160 €,RAR,V,MGB GT V8 coupé (pare-chocs USA),4402,1975
+MG,Vannes,Midget Mark II roadster,SVV Ruellan,9 672 €,OR-,V,MGB GT V8 coupé (pare-chocs USA),4402,1975
+MG,Londres,"Midget ""Mark I"" roadster + hard-top RHD, roues fil",Coys Auctions,2 550 €,OR,V,MGB GT V8 coupé (pare-chocs USA),4402,1975
+MG,Beaulieu,"Midget roadster RHD préparé course, moteur 1275",Bonhams,5 250 €,TR,V,MGB GT V8 coupé (pare-chocs USA),4402,1975
+,,,,,,,MGB GT V8 coupé (pare-chocs USA),4399,1975
+MG,Leominster,TF 1250 roadster,Brightwells,14 750 €,OR,V,MGB GT V8 coupé (pare-chocs USA),4399,1975
+MG,Duxford,TF 1250 roadster (convertie en RHD),H and H,24 030 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4399,1975
+MG,Londres,TF 1250 roadster,Bonhams,20 410 €,OR+,V,MGB GT V8 coupé (pare-chocs USA),4399,1975
+MG,Philadelphie,TF 1250 roadster,Bonhams,17 790 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4399,1975
+MG,Paris,"TF 1250 roadster LHD, roues fil",Bonhams,23 000 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4399,1975
+MG,Toffen,TF 1500 roadster LHD,Oldtimer Galerie Toffen,30 792 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4399,1975
+MG,Fontainebleau,"TF 1250 roadster ex-USA, roues fil",Jean-Pierre Osenat,22 648 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4399,1975
+MG,Fontainebleau,"TF 1250 roadster LHD, roues fil",Jean-Pierre Osenat,28 593 €,REST+,V,MGB GT V8 coupé (pare-chocs USA),4399,1975
+MG,Paris,"TF 1250 roadster LHD, roues fil",Artcurial Motorcars,35 498 €,REST+,V,MGB GT V8 coupé (pare-chocs USA),4399,1975
+MG,Bruxelles,"TF 1250 roadster LHD, roues fil",Pierre Bergé & Associés,29 400 €,OR+,V,MGB GT V8 coupé (pare-chocs USA),4399,1975
+MG,Harrogate,"TF 1250 roadster RHD, roues disque",Bonhams,20 745 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4399,1975
+MG,Goodwood,"TF 1250 roadster RHD, roues disque",Bonhams,24 172 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4399,1975
+MG,Beaulieu,"TF 1250 roadster LHD, roues fil",Bonhams,33 063 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4399,1975
+MG,Le Mans,"TF 1250 roadster LHD, roues fil",Artcurial,29 784 €,REST,V,MGB GT V8 coupé (pare-chocs USA),4399,1975
+MG,Paris,"TF 1250 roadster LHD, roues fil",Artcurial Motorcars,22 000 €,REST+,V,MGB GT V8 coupé (pare-chocs USA),4399,1975
+MG,Sainte-Geneviève,"TF roadster LHD ex-USA, moteur 1800",SVV Australe,14 000 €,REST-/TR,V,MGB GT V8 coupé (pare-chocs USA),4399,1975
+,,,,,,,TF 1.8 VVC roadster,4408,2002
+MG,Birmingham,MGA 1500 coupé RHD,Silverstone Auction,34 760 €,REST,V,TF 1.8 VVC roadster,4408,2002
+MG,Brooklands,MGA 1500 coupé,Historics at Brooklands,29 890 €,REST,V,TF 1.8 VVC roadster,4408,2002
+MG,Toffen,MGA 1500 coupé LHD,Oldtimer Galerie Toffen,30 590 €,OR+,V,TF 1.8 VVC roadster,4408,2002
+MG,La Mézière,"MGA 1500 coupé LHD, roues fil",Alcopa Auction Rennes,21 060 €,REST,V,TF 1.8 VVC roadster,4408,2002
+MG,Londres,"MGA 1500 coupé LHD, roues fil",Bonhams,14 970 €,REST,V,TF 1.8 VVC roadster,4408,2002
+MG,Brooklands,MGA 1500 coupé,Historics,11 000 €,REST,V,TF 1.8 VVC roadster,4408,2002
+MG,Monaco,MGA 1500 coupé,Coys,17 000 €,REST,V,TF 1.8 VVC roadster,4408,2002
+MG,Sainte-Geneviève,"MGA 1500 coupé LHD, roues disque",Australe,2 800 €,SEP,V,TF 1.8 VVC roadster,4408,2002
+MG,Goodwood,"MGA 1500 coupé RHD, roues disque",Bonhams,4 800 €,RAR,V,TF 1.8 VVC roadster,4408,2002
+MG,Londres,"MGA 1500 coupé RHD, roues disque",Bonhams,13 880 €,REST,V,TF 1.8 VVC roadster,4408,2002
+,,,,,,,TF 1.8 VVC roadster,11664,2002
+MG,Noyal-sur-Vilaine,MGB GT coupé RHD,Eric Sanson / M. Saint-Gal,2 800 €,OR-,V,TF 1.8 VVC roadster,11664,2002
+MG,OxfOrd,MGB GT V8 coupé RHD,Bonhams,12 210 €,REST+,V,TF 1.8 VVC roadster,11664,2002
+MG,Buxton,"MGB GT V8 coupé RHD, toit Webasto",H & H,2 600 €,OR,V,TF 1.8 VVC roadster,11664,2002
+MG,Harrogate,MGB GT V8 coupé RHD,Bonhams,7 200 €,OR,V,TF 1.8 VVC roadster,11664,2002
+MG,Buxton,MGB GT V8 coupé RHD,H & H Classic Auctions,6 750 €,REST,V,TF 1.8 VVC roadster,11664,2002
+,,,,,,,TF 1.8 VVC roadster,4419,2002
+MG,Brooklands,MGB GT V8 coupé (pare-chocs chromés) RHD,Historics at Brooklands,19 660 €,REST,V,TF 1.8 VVC roadster,4419,2002
+MG,Brooklands,MGB GT V8 coupé (pare-chocs chromés) toit souple RHD,Historics at Brooklands,4 290 €,OR,V,TF 1.8 VVC roadster,4419,2002
+MG,Brooklands,MGB GT V8 coupé (pare-chocs chromés) RHD,Historics at Brooklands,38 240 €,REST,V,TF 1.8 VVC roadster,4419,2002
+MG,Toffen,MGB GT V8 coupé (pare-chocs chromés),Oldtimer Galerie Toffen,11 530 €,OR+,V,TF 1.8 VVC roadster,4419,2002
+MG,Beaulieu,MGB GT V8 coupé RHD ,Bonhams,12 300 €,OR+,V,TF 1.8 VVC roadster,4419,2002
+MG,Londres,MGB GT V8 coupé RHD,Bonhams,5 716 €,RAR,V,TF 1.8 VVC roadster,4419,2002
+MG,Brooklands,"MGB GT V8 coupé ""chrome""",Historics,7 650 €,REST,V,TF 1.8 VVC roadster,4419,2002
+MG,Beaulieu,"MGB GT V8 coupé ""chrome""",Bonhams,6 400 €,OR,V,TF 1.8 VVC roadster,4419,2002
+MG,Buxton,MGB GT V8 coupé RHD,H & H Classic Auctions,8 540 €,REST,V,TF 1.8 VVC roadster,4419,2002
+MG,Buxton,MGB GT V8 coupé RHD,H & H,4 160 €,OR+,V,TF 1.8 VVC roadster,4419,2002
+MG,Buxton,MGB GT V8 coupé RHD,H & H,3 900 €,REST-,V,TF 1.8 VVC roadster,4419,2002
+MG,Goodwood,"MGB GT V8 coupé ""chrome"" RHD",Bonhams,9 100 €,REST,V,TF 1.8 VVC roadster,4419,2002
+MG,Sandown Park,"MGB GT V8 coupé ""chrome"" RHD",Barons Auctions,3 750 €,OR,V,TF 1.8 VVC roadster,4419,2002
+MG,Brooklands,"MGB GT V8 coupé RHD ""chrome"", toit Webasto",BCA Classic & Historic,4 200 €,OR+,V,TF 1.8 VVC roadster,4419,2002
+MG,Buxton,"MGB GT V8 coupé RHD, toit Webasto",H & H Classic Auctions,6 450 €,OR,V,TF 1.8 VVC roadster,4419,2002
+MG,Gaydon,"MGB GT V8 coupé ""chrome"" RHD, toit Webasto",Bonhams,10 500 €,REST+,V,TF 1.8 VVC roadster,4419,2002
+,,,,,,,TF 1.8 VVC roadster,4418,2002
+MG,Leominster,MGB GT coupé Jubilee (pare-chocs USA),Brightwells,3 280 €,OR,V,TF 1.8 VVC roadster,4418,2002
+MG,Duxford,MGB GT coupé (pare-chocs USA) RHD,H and H,16 240 €,OR+,V,TF 1.8 VVC roadster,4418,2002
+MG,Brooklands,MGB GT coupé overdrive pare-chocs chromés,Historics at Brooklands,2 827 €,OR+,V,TF 1.8 VVC roadster,4418,2002
+MG,Beaulieu,MGB GT coupé ,Bonhams,2 186 €,OR,V,TF 1.8 VVC roadster,4418,2002
+MG,Beaulieu,MGB GT coupé RHD,Bonhams,2 186 €,OR,V,TF 1.8 VVC roadster,4418,2002
+MG,Londres,"MGB GT coupé RHD, toit Webasto",Bonhams,6 124 €,OR+,V,TF 1.8 VVC roadster,4418,2002
+MG,Harrogate,MGB GT coupé RHD,Bonhams,3 004 €,REST,V,TF 1.8 VVC roadster,4418,2002
+MG,Beaulieu,B GT coupé RHD,Bonhams,4 600 €,REST,V,TF 1.8 VVC roadster,4418,2002
+MG,Kidlington,MGB GT coupé RHD,Bonhams,5 543 €,OR+,V,TF 1.8 VVC roadster,4418,2002
+MG,Uzerche,"MGB GT coupé RHD, moonroof",Me Arnaud-Lacroze,3 500 €,REST-,V,TF 1.8 VVC roadster,4418,2002
+MG,OxfOrd,"MGB GT coupé RHD, toit Webasto",Bonhams,470 €,OR-,V,TF 1.8 VVC roadster,4418,2002
+MG,Harrogate,MGB GT coupé RHD,Bonhams,3 070 €,REST,V,TF 1.8 VVC roadster,4418,2002
+MG,Brooklands,MGB GT coupé RHD préparé,Historics at Brooklands,3 820 €,REST/TR,V,TF 1.8 VVC roadster,4418,2002
+MG,Sainte-Geneviève,"MGB GT coupé LHD ex-USA, roues fil",Australe,4 100 €,REST-,V,TF 1.8 VVC roadster,4418,2002
+MG,Saint-JameS,MGB GT coupé LHD,Toutain-Vente,3 000 €,REST,V,TF 1.8 VVC roadster,4418,2002
+MG,Kings Lynn,MGB GT coupé RHD,Anglia Car Auctions,1 520 €,OR+,V,TF 1.8 VVC roadster,4418,2002
+,,,,,,,TF 1.8 VVC roadster,4417,2002
+MG,Brooklands,MGB GT coupé (pare-chocs chromés) RHD,Historics at Brooklands,4 040 €,REST,V,TF 1.8 VVC roadster,4417,2002
+MG,Leominster,MGB GT coupé (pare-chocs chromés) RHD,Brightwells,22 060 €,REST+,V,TF 1.8 VVC roadster,4417,2002
+MG,ONLINE,MGB GT coupé (pare-chocs chromés) RHD,H and H,6 570 €,REST,V,TF 1.8 VVC roadster,4417,2002
+MG,Le Mans,MGB GT coupé (pare-chocs chromés),Marie Line Balsan / Dominique Pagneux,6 140 €,OR-,V,TF 1.8 VVC roadster,4417,2002
+MG,Ascott,MGB GT coupé (pare-chocs chromés) RHD,Historics at Brooklands,10 080 €,REST,V,TF 1.8 VVC roadster,4417,2002
+MG,Neuilly sur Seine,"MGB GT coupé LHD, look 1967",Claude Aguttes,14 400 €,REST,V,TF 1.8 VVC roadster,4417,2002
+MG,Brooklands,MGB GT coupé RHD,Historics at Brooklands,15 320 €,OR+,V,TF 1.8 VVC roadster,4417,2002
+MG,Fontainebleau,"MGB GT coupé RHD, toit souple",Osenat,5 400 €,REC,V,TF 1.8 VVC roadster,4417,2002
+MG,Brooklands,MGB GT coupé RHD,Historics at Brooklands,6 720 €,OR+,V,TF 1.8 VVC roadster,4417,2002
+MG,Toffen,MGB GT coupé (pare-chocs chromés),Oldtimer Galerie Toffen,8 650 €,OR,V,TF 1.8 VVC roadster,4417,2002
+MG,La Mézière,MGB GT coupé (pare-chocs chromés),Alcopa Auction,6 550 €,REST,V,TF 1.8 VVC roadster,4417,2002
+MG,Avignon,MGB GT coupé,Leclère MDV,11 760 €,REST,V,TF 1.8 VVC roadster,4417,2002
+MG,Goodwood,MGB GT coupé RHD,Bonhams,21 840 €,REST,V,TF 1.8 VVC roadster,4417,2002
+MG,Toffen,"MGB GT coupé, jantes Minilite",Oldtimer Galerie Toffen,16 690 €,OR+,V,TF 1.8 VVC roadster,4417,2002
+MG,Auvers sur Oise,MGB GT coupé,William Le Calvez,12 180 €,OR+,V,TF 1.8 VVC roadster,4417,2002
+MG,Goodwood,MGB GT coupé RHD,Bonhams,16 060 €,REST,V,TF 1.8 VVC roadster,4417,2002
+,,,,,,,TF 1.8 VVC roadster,4416,2002
+MG,Auburn,MGB cabriolet (pare-chocs USA),RM Sotheby's,2 360 €,REST,V,TF 1.8 VVC roadster,4416,2002
+MG,Fontainebleau,"MGB cabriolet USA, look 1968 (chromes)",Jean-Pierre Osenat,18 000 €,REST/TR,V,TF 1.8 VVC roadster,4416,2002
+MG,Fort Lauderdale,MGB cabriolet (pare-chocs USA),RM Sotheby,6 360 €,OR+,V,TF 1.8 VVC roadster,4416,2002
+MG,Fontainebleau,"MGB cabriolet, look 1968 (chromes)",Jean-Pierre Osenat,22 200 €,REST/TR,V,TF 1.8 VVC roadster,4416,2002
+MG,Vannes,MGB cabriolet (pare-chocs USA),Jack-Philipe Ruellan,10 620 €,OR,V,TF 1.8 VVC roadster,4416,2002
+MG,Brooklands,MGB cabriolet RHD,Historics at Brooklands,7 160 €,REST,V,TF 1.8 VVC roadster,4416,2002
+MG,Fontainebleau,"MGB cabriolet USA, pare-chocs chromés",Osenat,12 500 €,REST,V,TF 1.8 VVC roadster,4416,2002
+MG,Fontainebleau,"MGB cabriolet, démonté",Osenat,4 320 €,REC,V,TF 1.8 VVC roadster,4416,2002
+MG,Duxford,MGB cabriolet (pare-chocs USA),H and H Classics,14 820 €,REST,V,TF 1.8 VVC roadster,4416,2002
+MG,Monaco,"MGB cabriolet USA, pare-chocs chromés",Artcurial Motorcars,34 780 €,REST+,V,TF 1.8 VVC roadster,4416,2002
+MG,Lyon-Chassieu,"MGB cabriolet USA, look 1968",Jean-Pierre Osenat,16 200 €,REST/TR,V,TF 1.8 VVC roadster,4416,2002
+MG,Fontainebleau,"MGB cabriolet USA, hard-top, conversion chrome",Jean-Pierre Osenat,8 400 €,REST/TR,V,TF 1.8 VVC roadster,4416,2002
+MG,Toulouse,MGB 1800 cabriolet modifiée avec pare-chocs chromés,Marc Labarbe,15 340 €,OR/TR,V,TF 1.8 VVC roadster,4416,2002
+MG,Lyon (Brotteaux),"MGB cabriolet USA, conversion chromes, roues fil",Claude Aguttes SAS,15 600 €,REST/TR,V,TF 1.8 VVC roadster,4416,2002
+MG,Paris,"MGB cabriolet LHD overdrive, roues fil",Bonhams,15 525 €,REST,V,TF 1.8 VVC roadster,4416,2002
+MG,Paris,"MGB cabriolet LHD, pare-chocs chromés",Bonhams,10 350 €,REST/TR,V,TF 1.8 VVC roadster,4416,2002
+,,,,,,,TF 1.8 VVC roadster,2&idCote,2002
+MG,Goodwood,MGB cabriolet hard-top RHD préparé compét.,Bonhams,20 538 €,REST+/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,MGB LE cabriolet RHD,Bonhams,7 517 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGB cabriolet LHD, conversion ""chrome""",Jean-Pierre Osenat,12 509 €,REST/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Londres,MGB cabriolet RHD,Bonhams,4 083 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Londres,MGB cabriolet RHD,Bonhams,5 444 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Toffen,"MGB cabriolet hard-top LHD, roues Rostyle",Oldtimer Galerie,9 290 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,"B cabriolet RHD préparé, roues fil",Bonhams,6 613 €,REST/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Uzerche,"B cabriolet LHD, pare-chocs chromés",Me Arnaud-Lacroze,6 900 €,REST-/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Duxford,MGB cabriolet RHD,H & H Classic Auctions,5 202 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGB cabriolet LHD, pare-chocs chromés",Jean-Pierre Osenat,10 722 €,REST/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Kidlington,"MGB cabriolet RHD, roues fil",Bonhams,6 929 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Kidlington,"MGB cabriolet RHD, roues fil",Bonhams,6 929 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Coventry,MGB cabriolet hard-top RHD préparé circuit,Silverstone Auctions,18 172 €,TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,"MGB GT coupé RHD, pare-chocs chromés",H & H Classic Auctions,8 344 €,REST/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,London,"MGB cabriolet LE RHD, 2 500 miles origine",Bonhams,8 210 €,EX,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,London,MGB cabriolet RHD,Bonhams,2 390 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+,,,,,,,TF 1.8 VVC roadster,2&idCote,2002
+MG,Goodwood,MGB cabriolet hard-top RHD préparé compét.,Bonhams,20 538 €,REST+/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,MGB LE cabriolet RHD,Bonhams,7 517 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGB cabriolet LHD, conversion ""chrome""",Jean-Pierre Osenat,12 509 €,REST/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Londres,MGB cabriolet RHD,Bonhams,4 083 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Londres,MGB cabriolet RHD,Bonhams,5 444 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Toffen,"MGB cabriolet hard-top LHD, roues Rostyle",Oldtimer Galerie,9 290 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,"B cabriolet RHD préparé, roues fil",Bonhams,6 613 €,REST/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Uzerche,"B cabriolet LHD, pare-chocs chromés",Me Arnaud-Lacroze,6 900 €,REST-/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Duxford,MGB cabriolet RHD,H & H Classic Auctions,5 202 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGB cabriolet LHD, pare-chocs chromés",Jean-Pierre Osenat,10 722 €,REST/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Kidlington,"MGB cabriolet RHD, roues fil",Bonhams,6 929 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Kidlington,"MGB cabriolet RHD, roues fil",Bonhams,6 929 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Coventry,MGB cabriolet hard-top RHD préparé circuit,Silverstone Auctions,18 172 €,TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,"MGB GT coupé RHD, pare-chocs chromés",H & H Classic Auctions,8 344 €,REST/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,London,"MGB cabriolet LE RHD, 2 500 miles origine",Bonhams,8 210 €,EX,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,London,MGB cabriolet RHD,Bonhams,2 390 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+,,,,,,,TF 1.8 VVC roadster,7824,2002
+MG,Fontainebleau,"MGB cabriolet LHD, roues fil",Jean-Pierre Osenat,16 200 €,REST,V,TF 1.8 VVC roadster,7824,2002
+MG,Brooklands,MGB cabriolet (pare-chocs chromés) RHD,Historics at Brooklands,7 010 €,REST,V,TF 1.8 VVC roadster,7824,2002
+MG,Leominster,MGB cabriolet (pare-chocs chromés) RHD,Brightwells,10 590 €,REST,V,TF 1.8 VVC roadster,7824,2002
+MG,Leominster,MGB cabriolet (pare-chocs chromés) RHD,Brightwells,10 720 €,REST,V,TF 1.8 VVC roadster,7824,2002
+MG,Buxton,MGB cabriolet (pare-chocs chromés) RHD + hard-top,H and H,12 010 €,REST,V,TF 1.8 VVC roadster,7824,2002
+MG,Le Mans,MGB cabriolet (pare-chocs chromés) RHD,Marie Line Balsan / Dominique Pagneux,11 800 €,OR,V,TF 1.8 VVC roadster,7824,2002
+MG,Londres,"MGB cabriolet conv. RHD, moteur 1950 à compr.",Bonhams,21 280 €,REST/TR,V,TF 1.8 VVC roadster,7824,2002
+MG,Buxton,MGB cabriolet RHD,H and H,11 420 €,REST,V,TF 1.8 VVC roadster,7824,2002
+MG,Turin,MGB cabriolet,Aste Bolaffi,21 850 €,REST+,V,TF 1.8 VVC roadster,7824,2002
+MG,Lyon,"MGB cabriolet, mod. pare-chocs chromés",Osenat,13 200 €,REST,V,TF 1.8 VVC roadster,7824,2002
+MG,Brooklands,MGB cabriolet RHD,Historics at Brooklands,5 110 €,REST,V,TF 1.8 VVC roadster,7824,2002
+MG,Auburn,"MGB cabriolet, conversion V8",RM Sotheby's,11 840 €,REST/TR,V,TF 1.8 VVC roadster,7824,2002
+MG,Quail Lodge,MGB cabriolet,Bonhams,20 220 €,OR+,V,TF 1.8 VVC roadster,7824,2002
+MG,Quail Lodge,"MGB cabriolet, 6 700 miles origine",Bonhams,28 890 €,OR+,V,TF 1.8 VVC roadster,7824,2002
+MG,La Teste de Buch,"MGB cabriolet LHD, roues fil",Osenat,10 200 €,REST-,V,TF 1.8 VVC roadster,7824,2002
+MG,Le Mans,MGB cabriolet,Artcurial,14 300 €,OR,V,TF 1.8 VVC roadster,7824,2002
+,,,,,,,TF 1.8 VVC roadster,2&idCote,2002
+MG,Rouen,MGB cabriolet (pare-chocs chromés),Guillaume Cheroyan,11 200 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Wattripont,"MGB cabriolet LHD, roues fil",Collin du Bocage,3 600 €,OR-,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Brooklands,MGB cabriolet RHD,Historics at Brooklands,14 540 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fort Lauderdale,MGB cabriolet,RM Sotheby's,10 550 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Brooklands,MGB cabriolet (pare-chocs chromés),Historics at Brooklands,12 530 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Esvres-sur-Indre,MGB cabriolet (pare-chocs chromés) export USA,Alcopa,13 130 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Lyon,MGB cabriolet (pare-chocs chromés),Osenat,16 800 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,La Mézière,MGB 1800 cabriolet + remorque (AR de MGB),Alcopa Auction,13 460 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,La Mézière,MGB cabriolet (pare-chocs chromés),Alcopa Auction,9 380 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Goodwood,MGB cabriolet + hardtop évocation Sebring,Bonhams,18 900 €,REST/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,MGB cabriolet (pare-chocs chromés),Bonhams,11 890 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,MGB cabriolet (pare-chocs chromés),Bonhams,2 500 €,REC,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Santa Monica,MGB cabriolet (pare-chocs chromés),RM Sotheby's,5 500 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,La Mézière,"MGB cabriolet USA, roues fil",Alcopa Auction Rennes,10 290 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,La Mézière,"MGB cabriolet USA, jantes sport",Alcopa Auction Rennes,15 840 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Toffen,MGB cabriolet,Oldtimer Galerie Toffen,20 390 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+,,,,,,,TF 1.8 VVC roadster,2&idCote,2002
+MG,Rouen,MGB cabriolet (pare-chocs chromés),Guillaume Cheroyan,11 200 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Wattripont,"MGB cabriolet LHD, roues fil",Collin du Bocage,3 600 €,OR-,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Brooklands,MGB cabriolet RHD,Historics at Brooklands,14 540 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fort Lauderdale,MGB cabriolet,RM Sotheby's,10 550 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Brooklands,MGB cabriolet (pare-chocs chromés),Historics at Brooklands,12 530 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Esvres-sur-Indre,MGB cabriolet (pare-chocs chromés) export USA,Alcopa,13 130 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Lyon,MGB cabriolet (pare-chocs chromés),Osenat,16 800 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,La Mézière,MGB 1800 cabriolet + remorque (AR de MGB),Alcopa Auction,13 460 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,La Mézière,MGB cabriolet (pare-chocs chromés),Alcopa Auction,9 380 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Goodwood,MGB cabriolet + hardtop évocation Sebring,Bonhams,18 900 €,REST/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,MGB cabriolet (pare-chocs chromés),Bonhams,11 890 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,MGB cabriolet (pare-chocs chromés),Bonhams,2 500 €,REC,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Santa Monica,MGB cabriolet (pare-chocs chromés),RM Sotheby's,5 500 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,La Mézière,"MGB cabriolet USA, roues fil",Alcopa Auction Rennes,10 290 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,La Mézière,"MGB cabriolet USA, jantes sport",Alcopa Auction Rennes,15 840 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Toffen,MGB cabriolet,Oldtimer Galerie Toffen,20 390 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+,,,,,,,TF 1.8 VVC roadster,4415,2002
+MG,Duxford,MGB 1800 roadster (moteur 3 paliers) RHD,H and H,15 590 €,REST,V,TF 1.8 VVC roadster,4415,2002
+MG,Wattripont,"MGB roadster hard-top LHD, roues disque",Collin du Bocage,1 800 €,SEP,V,TF 1.8 VVC roadster,4415,2002
+MG,Brooklands,MGB 1800 roadster (moteur 3 paliers),Historics at Brooklands,12 370 €,REST,V,TF 1.8 VVC roadster,4415,2002
+MG,Le Vigeant,"MGB 1800 roadster LHD, roues fil",HdV Poitiers (Me Tailliez) / M. Souchaud,17 940 €,REST,V,TF 1.8 VVC roadster,4415,2002
+MG,Paris,"MGB 1800 roadster hard-top, préparé",Artcurial Motorcars,19 072 €,REST,V,TF 1.8 VVC roadster,4415,2002
+MG,Goodwood,EX 234 cabriolet hard-top proto Pininfarina,Bonhams,76 350 €,EX,V,TF 1.8 VVC roadster,4415,2002
+MG,Goodwood,MGB roadster RHD,Bonhams,29 191 €,REST+,V,TF 1.8 VVC roadster,4415,2002
+MG,Toffen,MGB 1800 roadster + hardtop,Oldtimer Galerie Toffen,4 136 €,OR-,V,TF 1.8 VVC roadster,4415,2002
+MG,Knokke le Zoute,MGB 1800 cabriolet LHD (pare-chocs démontés),Bonhams,12 420 €,REST/TR,V,TF 1.8 VVC roadster,4415,2002
+MG,Spa,MGB 1800 cabriolet LHD,Bonhams,9 200 €,REST,V,TF 1.8 VVC roadster,4415,2002
+MG,Spa,MGB 1800 cabriolet LHD,Bonhams,6 900 €,REST-,V,TF 1.8 VVC roadster,4415,2002
+MG,Brooklands,MGB 1800 cabriolet RHD,Historics at Brooklands,15 422 €,REST,V,TF 1.8 VVC roadster,4415,2002
+MG,Toffen,MGB 1800 cabriolet,Oldtimer Galerie Toffen,18 580 €,OR+,V,TF 1.8 VVC roadster,4415,2002
+MG,Bordeaux,MGB cabriolet LHD,Jean dit Cazaux,14 160 €,REST,V,TF 1.8 VVC roadster,4415,2002
+MG,Paris,MGB 1800 cabriolet hard-top préparé course,Artcurial Motorcars,52 420 €,REST/TR,V,TF 1.8 VVC roadster,4415,2002
+MG,Bordeaux,MGB 1800 roadster LHD,Jean dit Cazaux,14 160 €,REST,V,TF 1.8 VVC roadster,4415,2002
+,,,,,,,TF 1.8 VVC roadster,4414,2002
+MG,Lyon (Epoqu'auto),"MGA 1600 Mark II coupé LHD, roues disque",Jean-Pierre Osenat,26 220 €,REST,V,TF 1.8 VVC roadster,4414,2002
+MG,AmeliA IslAnd,MGA 1600 Mark II coupé LHD,Gooding & Company,18 000 €,REST,V,TF 1.8 VVC roadster,4414,2002
+MG,Buxton,"MGA Mark II coupé RHD roues fil, moteur 1800",H & H Classic Auctions,12 150 €,REST/TR,V,TF 1.8 VVC roadster,4414,2002
+MG,Paris,"MGA 1600 Mark II coupé RHD, préparé VHC","Artcurial Briest, Le Fur, Poulai",11 000 €,REST/TR,V,TF 1.8 VVC roadster,4414,2002
+MG,Paris,"MGA Mark II coupé RHD, prép. 1800 rallye","Artcurial Briest, Le Fur, Poulai",15 000 €,REST/TR,V,TF 1.8 VVC roadster,4414,2002
+,,,,,,,TF 1.8 VVC roadster,7823,2002
+MG,Fontainebleau,MGA 1600 Mark II Deluxe roadster LHD,Jean-Pierre Osenat,40 800 €,REST,V,TF 1.8 VVC roadster,7823,2002
+MG,Fontainebleau,MGA 1600 Mark II De Luxe roadster,Jean-Pierre Osenat,33 954 €,REST+,V,TF 1.8 VVC roadster,7823,2002
+,,,,,,,TF 1.8 VVC roadster,4413,2002
+MG,Auburn,MGA 1600 Mark II roadster,RM Sotheby's,21 020 €,REST,V,TF 1.8 VVC roadster,4413,2002
+MG,Toffen,MGA 1600 Mark II roadster + hard-top Ghia Aigle,Oldtimer Galerie,26 570 €,REST,V,TF 1.8 VVC roadster,4413,2002
+MG,Hershey,MGA 1600 Mark II roadster,RM Sotheby's,40 810 €,REST,V,TF 1.8 VVC roadster,4413,2002
+MG,Quail Lodge,MGA 1600 Mark II roadster,Bonhams,36 590 €,OR+,V,TF 1.8 VVC roadster,4413,2002
+MG,Coventry,MGA 1600 Mark II roadster,Silverstone Auction,40 910 €,REST,V,TF 1.8 VVC roadster,4413,2002
+MG,La Mézière,"MGA 1600 Mark II roadster LHD, freins disque",Alcopa Auction Rennes,21 730 €,REST,V,TF 1.8 VVC roadster,4413,2002
+MG,Lyon,"MGA 1600 Mark II roadster LHD, roues fil",Claude Aguttes,33 600 €,REST,V,TF 1.8 VVC roadster,4413,2002
+MG,Amelia Island,MGA 1600 Mark II roadster,Gooding & Co.,31 680 €,REST,V,TF 1.8 VVC roadster,4413,2002
+MG,Le Neubourg,"MGA 1600 Mark II roadster , roues disque",Me Juarez,14 300 €,OR-,V,TF 1.8 VVC roadster,4413,2002
+MG,Sainte-Geneviève,"MGA 1600 Mark II roadster ex-USA, roues fil",Australe,11 000 €,OR,V,TF 1.8 VVC roadster,4413,2002
+MG,Sainte-Geneviève,"MGA 1600 Mark II roadster USA, roues disque",Australe,11 500 €,REST-,V,TF 1.8 VVC roadster,4413,2002
+MG,Londres,MGA 1600 Mark II roadster conversion RHD,Bonhams,11 000 €,RAR/TR,V,TF 1.8 VVC roadster,4413,2002
+MG,Fontainebleau,"MGA 1600 Mark II roadster LHD, roues fil",Fontainebleau,23 000 €,REST+,V,TF 1.8 VVC roadster,4413,2002
+MG,Padoue,"MGA 1600 Mark II roadster LHD, roues fil",Coys (Europe),28 000 €,REST+,V,TF 1.8 VVC roadster,4413,2002
+MG,Toffen,"MGA 1600 Mark II Deluxe roadster LHD, roues fil",Oldtimer Galerie Toffen,23 730 €,OR+,V,TF 1.8 VVC roadster,4413,2002
+MG,Buxton,"MGA 1600 Mark II roadster RHD, roues disque",H & H Classic Auctions,15 750 €,REST,V,TF 1.8 VVC roadster,4413,2002
+,,,,,,,TF 1.8 VVC roadster,2&idCote,2002
+MG,Auburn,MGA 1600 Mark II roadster,RM Sotheby's,21 020 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Toffen,MGA 1600 Mark II roadster + hard-top Ghia Aigle,Oldtimer Galerie,26 570 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Hershey,MGA 1600 Mark II roadster,RM Sotheby's,40 810 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Quail Lodge,MGA 1600 Mark II roadster,Bonhams,36 590 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Coventry,MGA 1600 Mark II roadster,Silverstone Auction,40 910 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,La Mézière,"MGA 1600 Mark II roadster LHD, freins disque",Alcopa Auction Rennes,21 730 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Lyon,"MGA 1600 Mark II roadster LHD, roues fil",Claude Aguttes,33 600 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Amelia Island,MGA 1600 Mark II roadster,Gooding & Co.,31 680 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Le Neubourg,"MGA 1600 Mark II roadster , roues disque",Me Juarez,14 300 €,OR-,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Sainte-Geneviève,"MGA 1600 Mark II roadster ex-USA, roues fil",Australe,11 000 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Sainte-Geneviève,"MGA 1600 Mark II roadster USA, roues disque",Australe,11 500 €,REST-,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Londres,MGA 1600 Mark II roadster conversion RHD,Bonhams,11 000 €,RAR/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGA 1600 Mark II roadster LHD, roues fil",Fontainebleau,23 000 €,REST+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Padoue,"MGA 1600 Mark II roadster LHD, roues fil",Coys (Europe),28 000 €,REST+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Toffen,"MGA 1600 Mark II Deluxe roadster LHD, roues fil",Oldtimer Galerie Toffen,23 730 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,"MGA 1600 Mark II roadster RHD, roues disque",H & H Classic Auctions,15 750 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+,,,,,,,TF 1.8 VVC roadster,12060,2002
+MG,Buxton,TF 160 roadster RHD + hard-top,H and H,1 570 €,OR+,V,TF 1.8 VVC roadster,12060,2002
+MG,Buxton,TF 1.8 roadster RHD,H and H,900 €,OR,V,TF 1.8 VVC roadster,12060,2002
+,,,,,,,TF 1.8 VVC roadster,11879,2002
+MG,Oxford,TF 1.8 roadster RHD,Bonhams,2 430 €,OR+,V,TF 1.8 VVC roadster,11879,2002
+,,,,,,,TF 1.8 VVC roadster,11878,2002
+MG,Buxton,MG-F 135 roadster RHD,H and H,870 €,OR,V,TF 1.8 VVC roadster,11878,2002
+MG,Vannes,MG-F 1.8 (120 ch) roadster RHD,SVV Ruellan,3 350 €,OR,V,TF 1.8 VVC roadster,11878,2002
+MG,Brooklands,MG-F roadster,Historics at Brooklands,924 €,OR+,V,TF 1.8 VVC roadster,11878,2002
+MG,Coventry,TF 1.8 roadster RHD,Silverstone Auctions,2 596 €,OR+,V,TF 1.8 VVC roadster,11878,2002
+MG,Buxton,MG-F 1.8 roadster RHD,H & H Classic Auctions,1 800 €,OR,V,TF 1.8 VVC roadster,11878,2002
+,,,,,,,TF 1.8 VVC roadster,9004,2002
+MG,Buxton,R V8 cabriolet RHD,H and H,20 890 €,OR+,V,TF 1.8 VVC roadster,9004,2002
+MG,Duxford,R V8 cabriolet RHD,H and H,22 740 €,OR+,V,TF 1.8 VVC roadster,9004,2002
+MG,Duxford,R V8 cabriolet RHD,H and H,31 180 €,OR+,V,TF 1.8 VVC roadster,9004,2002
+MG,Birmingham,R V8 cabriolet RHD,Silverstone Auctions,22 660 €,OR+,V,TF 1.8 VVC roadster,9004,2002
+MG,Buxton,R V8 cabriolet,H and H,20 940 €,OR+,V,TF 1.8 VVC roadster,9004,2002
+MG,Londres,R V8 cabriolet RHD ex-Japon,Bonhams,15 900 €,OR+,V,TF 1.8 VVC roadster,9004,2002
+MG,Brooklands,R V8 cabriolet RHD,Historics at Brooklands,16 065 €,OR+,V,TF 1.8 VVC roadster,9004,2002
+MG,London,R V8 cabriolet RHD ex-Japon,Bonhams,11 170 €,OR+,V,TF 1.8 VVC roadster,9004,2002
+MG,Goodwood,R V8 cabriolet RHD,Bonhams,16 750 €,OR+,V,TF 1.8 VVC roadster,9004,2002
+MG,Lyon,R V8 cabriolet,Besch Cannes Auction,18 500 €,OR,V,TF 1.8 VVC roadster,9004,2002
+MG,OxfOrd,R V8 cabriolet RHD,Bonhams,6 490 €,OR,V,TF 1.8 VVC roadster,9004,2002
+MG,Buxton,R V8 cabriolet RHD,H & H,13 260 €,OR+,V,TF 1.8 VVC roadster,9004,2002
+MG,Harrogate,R V8 cabriolet RHD ex-Japon,Bonhams,15 000 €,OR+,V,TF 1.8 VVC roadster,9004,2002
+MG,Buxton,R V8 cabriolet RHD ex-Japon,H & H Classic Auctions,13 500 €,OR+,V,TF 1.8 VVC roadster,9004,2002
+MG,Cheltenham,R V8 cabriolet RHD ex-Japon,H & H Classic Auctions,14 630 €,OR+,V,TF 1.8 VVC roadster,9004,2002
+MG,Avignon,R V8 cabriolet RHD,Besch Cannes Auction,22 000 €,OR+,V,TF 1.8 VVC roadster,9004,2002
+,,,,,,,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,R V8 cabriolet RHD,H and H,20 890 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Duxford,R V8 cabriolet RHD,H and H,22 740 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Duxford,R V8 cabriolet RHD,H and H,31 180 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Birmingham,R V8 cabriolet RHD,Silverstone Auctions,22 660 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,R V8 cabriolet,H and H,20 940 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Londres,R V8 cabriolet RHD ex-Japon,Bonhams,15 900 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Brooklands,R V8 cabriolet RHD,Historics at Brooklands,16 065 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,London,R V8 cabriolet RHD ex-Japon,Bonhams,11 170 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Goodwood,R V8 cabriolet RHD,Bonhams,16 750 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Lyon,R V8 cabriolet,Besch Cannes Auction,18 500 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,OxfOrd,R V8 cabriolet RHD,Bonhams,6 490 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,R V8 cabriolet RHD,H & H,13 260 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Harrogate,R V8 cabriolet RHD ex-Japon,Bonhams,15 000 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,R V8 cabriolet RHD ex-Japon,H & H Classic Auctions,13 500 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Cheltenham,R V8 cabriolet RHD ex-Japon,H & H Classic Auctions,14 630 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Avignon,R V8 cabriolet RHD,Besch Cannes Auction,22 000 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+,,,,,,,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,R V8 cabriolet RHD,H and H,20 890 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Duxford,R V8 cabriolet RHD,H and H,22 740 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Duxford,R V8 cabriolet RHD,H and H,31 180 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Birmingham,R V8 cabriolet RHD,Silverstone Auctions,22 660 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,R V8 cabriolet,H and H,20 940 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Londres,R V8 cabriolet RHD ex-Japon,Bonhams,15 900 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Brooklands,R V8 cabriolet RHD,Historics at Brooklands,16 065 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,London,R V8 cabriolet RHD ex-Japon,Bonhams,11 170 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Goodwood,R V8 cabriolet RHD,Bonhams,16 750 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Lyon,R V8 cabriolet,Besch Cannes Auction,18 500 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,OxfOrd,R V8 cabriolet RHD,Bonhams,6 490 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,R V8 cabriolet RHD,H & H,13 260 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Harrogate,R V8 cabriolet RHD ex-Japon,Bonhams,15 000 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,R V8 cabriolet RHD ex-Japon,H & H Classic Auctions,13 500 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Cheltenham,R V8 cabriolet RHD ex-Japon,H & H Classic Auctions,14 630 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Avignon,R V8 cabriolet RHD,Besch Cannes Auction,22 000 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+,,,,,,,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,R V8 cabriolet RHD,H and H,20 890 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Duxford,R V8 cabriolet RHD,H and H,22 740 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Duxford,R V8 cabriolet RHD,H and H,31 180 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Birmingham,R V8 cabriolet RHD,Silverstone Auctions,22 660 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,R V8 cabriolet,H and H,20 940 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Londres,R V8 cabriolet RHD ex-Japon,Bonhams,15 900 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Brooklands,R V8 cabriolet RHD,Historics at Brooklands,16 065 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,London,R V8 cabriolet RHD ex-Japon,Bonhams,11 170 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Goodwood,R V8 cabriolet RHD,Bonhams,16 750 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Lyon,R V8 cabriolet,Besch Cannes Auction,18 500 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,OxfOrd,R V8 cabriolet RHD,Bonhams,6 490 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,R V8 cabriolet RHD,H & H,13 260 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Harrogate,R V8 cabriolet RHD ex-Japon,Bonhams,15 000 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,R V8 cabriolet RHD ex-Japon,H & H Classic Auctions,13 500 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Cheltenham,R V8 cabriolet RHD ex-Japon,H & H Classic Auctions,14 630 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Avignon,R V8 cabriolet RHD,Besch Cannes Auction,22 000 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+,,,,,,,TF 1.8 VVC roadster,4421,2002
+MG,ONLINE,MGC GT coupé 6-cyl. RHD,H and H,17 040 €,REST,V,TF 1.8 VVC roadster,4421,2002
+MG,Buxton,MGC GT coupé 6 cylindres RHD,H and H,28 730 €,REST,V,TF 1.8 VVC roadster,4421,2002
+MG,Southam,MGC GT coupé RHD,Silverstone Auctions,22 960 €,REST,V,TF 1.8 VVC roadster,4421,2002
+MG,Brooklands,MGC GT coupé RHD,Historics at Brooklands,12 210 €,OR,V,TF 1.8 VVC roadster,4421,2002
+MG,Monaco,MGC coupé GTS Sebring RHD,RM Sotheby's,140 000 €,REST,V,TF 1.8 VVC roadster,4421,2002
+MG,Scottsdale,MGC GT coupé 6-cyl. LHD,Bonhams,17 850 €,REST,V,TF 1.8 VVC roadster,4421,2002
+MG,Lyon (Brotteaux),"MGC GT coupé LHD, roues fil, toit Webasto",Claude Aguttes SAS,15 600 €,OR+,V,TF 1.8 VVC roadster,4421,2002
+MG,Brooklands,MGC GT coupé 6-cyl,Historics at Brooklands,19 921 €,REST,V,TF 1.8 VVC roadster,4421,2002
+MG,Londres,"MGC GT coupé RHD, roues disque",Bonhams,8 165 €,OR,V,TF 1.8 VVC roadster,4421,2002
+MG,Buxton,"MGC GT coupé ex-USA, conv. RHD",H & H Classic Auctions,10 320 €,REST/TR,V,TF 1.8 VVC roadster,4421,2002
+MG,Kidlington,"MGC GT coupé RHD, roues fil",Bonhams,14 030 €,REST+,V,TF 1.8 VVC roadster,4421,2002
+MG,Londres,MGC GT coupé RHD,Coys,7 150 €,REST,V,TF 1.8 VVC roadster,4421,2002
+MG,Buxton,"MGC GT coupé RHD, roues fil",H & H Classic Auctions,20 250 €,OR+,V,TF 1.8 VVC roadster,4421,2002
+MG,Leominster,"MGC GT coupé RHD, roues fil",Brightwells,7 650 €,REST,V,TF 1.8 VVC roadster,4421,2002
+MG,Sandown Park,MGC GT coupé RHD,Barons,5 400 €,REST,V,TF 1.8 VVC roadster,4421,2002
+MG,Sandown Park,"MGC GT coupé RHD autom., roues fil, toit ouvrant",Barons,7 940 €,REST,V,TF 1.8 VVC roadster,4421,2002
+,,,,,,,TF 1.8 VVC roadster,2&idCote,2002
+MG,ONLINE,MGC GT coupé 6-cyl. RHD,H and H,17 040 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,MGC GT coupé 6 cylindres RHD,H and H,28 730 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Southam,MGC GT coupé RHD,Silverstone Auctions,22 960 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Brooklands,MGC GT coupé RHD,Historics at Brooklands,12 210 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Monaco,MGC coupé GTS Sebring RHD,RM Sotheby's,140 000 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Scottsdale,MGC GT coupé 6-cyl. LHD,Bonhams,17 850 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Lyon (Brotteaux),"MGC GT coupé LHD, roues fil, toit Webasto",Claude Aguttes SAS,15 600 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Brooklands,MGC GT coupé 6-cyl,Historics at Brooklands,19 921 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Londres,"MGC GT coupé RHD, roues disque",Bonhams,8 165 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,"MGC GT coupé ex-USA, conv. RHD",H & H Classic Auctions,10 320 €,REST/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Kidlington,"MGC GT coupé RHD, roues fil",Bonhams,14 030 €,REST+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Londres,MGC GT coupé RHD,Coys,7 150 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Buxton,"MGC GT coupé RHD, roues fil",H & H Classic Auctions,20 250 €,OR+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Leominster,"MGC GT coupé RHD, roues fil",Brightwells,7 650 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Sandown Park,MGC GT coupé RHD,Barons,5 400 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Sandown Park,"MGC GT coupé RHD autom., roues fil, toit ouvrant",Barons,7 940 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+,,,,,,,TF 1.8 VVC roadster,4420,2002
+MG,Brooklands,MGC cabriolet 6 cylindres,Historics at Brooklands,25 270 €,REST,V,TF 1.8 VVC roadster,4420,2002
+MG,Brooklands,MGC cabriolet 6 cylindres RHD,Historics at Brooklands,21 030 €,REST,V,TF 1.8 VVC roadster,4420,2002
+MG,Birmingham,MGC GT racing RHD,Silverstone Auctions,47 910 €,REST,V,TF 1.8 VVC roadster,4420,2002
+MG,Scottsdale,MGC cabriolet 6 cylindres,Bonhams,22 100 €,OR+,V,TF 1.8 VVC roadster,4420,2002
+MG,Brooklands,MGC cabriolet RHD,Historics at Brooklands,20 590 €,OR,V,TF 1.8 VVC roadster,4420,2002
+MG,Greenwich,"MGC cabriolet USA, jantes alliage",Bonhams,23 020 €,REST,V,TF 1.8 VVC roadster,4420,2002
+MG,Silverstone,MGC GT coupé préparé 280 ch,Silverstone Auctions,17 934 €,REST/TR,V,TF 1.8 VVC roadster,4420,2002
+MG,Brooklands,C cabriolet RHD,Historics,19 077 €,REST,V,TF 1.8 VVC roadster,4420,2002
+MG,Buxton,MGC cabriolet RHD,H & H Classic Auctions,11 380 €,REST,V,TF 1.8 VVC roadster,4420,2002
+MG,Stoneleigh,MGC cabriolet RHD,Bonhams,4 860 €,OR,V,TF 1.8 VVC roadster,4420,2002
+MG,Buxton,"MGC cabriolet RHD, roues fil",H & H Classic Auctions,11 250 €,REST,V,TF 1.8 VVC roadster,4420,2002
+MG,Paris,"MGC cabriolet LHD, roues fil","Artcurial Briest, Le Fur, Poulai",17 000 €,REST,V,TF 1.8 VVC roadster,4420,2002
+MG,Sandown Park,MGC cabriolet RHD,Barons,11 850 €,REST+,V,TF 1.8 VVC roadster,4420,2002
+,,,,,,,TF 1.8 VVC roadster,4412,2002
+MG,Leominster,"MGA 1600 coupé RHD (moteur MGB, carbu Weber)",Brightwells,15 380 €,REST,V,TF 1.8 VVC roadster,4412,2002
+MG,Duxford,MGA 1600 coupé RHD,H and H,22 090 €,REST,V,TF 1.8 VVC roadster,4412,2002
+MG,Fontainebleau,"MGA 1600 coupé LHD, roues fil",Osenat,25 200 €,REST,V,TF 1.8 VVC roadster,4412,2002
+MG,Lyon (Brotteaux),"MGA 1600 coupé LHD, roues fil",Claude Aguttes,26 400 €,REST,V,TF 1.8 VVC roadster,4412,2002
+MG,Goodwood,MGA 1600 coupé Monza préparé,Bonhams,20 250 €,TR,V,TF 1.8 VVC roadster,4412,2002
+MG,Londres,"MGA 1600 coupé conversion RD, roues fil",Bonhams,11 250 €,REST/TR,V,TF 1.8 VVC roadster,4412,2002
+MG,Blackbushe,"MGA 1600 coupé RHD, roues fil",BCA Classic & Historic,7 910 €,REST,V,TF 1.8 VVC roadster,4412,2002
+,,,,,,,TF 1.8 VVC roadster,2&idCote,2002
+MG,Leominster,"MGA 1600 coupé RHD (moteur MGB, carbu Weber)",Brightwells,15 380 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Duxford,MGA 1600 coupé RHD,H and H,22 090 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGA 1600 coupé LHD, roues fil",Osenat,25 200 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Lyon (Brotteaux),"MGA 1600 coupé LHD, roues fil",Claude Aguttes,26 400 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Goodwood,MGA 1600 coupé Monza préparé,Bonhams,20 250 €,TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Londres,"MGA 1600 coupé conversion RD, roues fil",Bonhams,11 250 €,REST/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Blackbushe,"MGA 1600 coupé RHD, roues fil",BCA Classic & Historic,7 910 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+,,,,,,,TF 1.8 VVC roadster,4411,2002
+MG,Fontainebleau,"MGA 1600 roadster LHD, roues fil",Jean-Pierre Osenat,23 400 €,REST,V,TF 1.8 VVC roadster,4411,2002
+MG,Ascott,MGA 1600 roadster RHD,Historics at Brooklands,18 220 €,OR-,V,TF 1.8 VVC roadster,4411,2002
+MG,Scottsdale,MGA 1600 roadster,Bonhams,28 480 €,REST,V,TF 1.8 VVC roadster,4411,2002
+MG,Linas,MGA 1600 roadster,Aguttes,30 440 €,REST,V,TF 1.8 VVC roadster,4411,2002
+MG,Brooklands,MGA 1600 roadster RHD,Historics at Brooklands,22 100 €,REST,V,TF 1.8 VVC roadster,4411,2002
+MG,Beaulieu,"MGA 1600 roadster, moteur Riley, calandre Mk II",Bonhams,20 520 €,REST/TR,V,TF 1.8 VVC roadster,4411,2002
+MG,Quail Lodge,MGA 1600 roadster,Bonhams,37 550 €,OR+,V,TF 1.8 VVC roadster,4411,2002
+MG,Blenheim Palace,MGA 1600 roadster,Silverstone Auctions,56 980 €,REST,V,TF 1.8 VVC roadster,4411,2002
+MG,Ascot,MGA 1600 roadster,Historics at Brooklands,36 450 €,REST,V,TF 1.8 VVC roadster,4411,2002
+MG,Greenwich,MGA 1600 roadster hard-top,Bonhams,20 570 €,REST,V,TF 1.8 VVC roadster,4411,2002
+MG,Neuilly sur Seine,"MGA 1600 roadster LHD, roues fil",Claude Aguttes,27 600 €,REST,V,TF 1.8 VVC roadster,4411,2002
+MG,Esvres sur Indre,"MGA 1600 roadster LHD, roues fil, freins disque",Alcopa Auction Tours,25 370 €,REST,V,TF 1.8 VVC roadster,4411,2002
+MG,Zürich,"MGA 1600 roadster, roues disque",Oldtimer Galerie Toffen,40 256 €,REST,V,TF 1.8 VVC roadster,4411,2002
+MG,Carmel,MGA 1600 roadster,Bonhams,68 930 €,OR+,V,TF 1.8 VVC roadster,4411,2002
+MG,Paris,"MGA 1600 roadster LHD, roues disque",Artcurial Motorcars,29 800 €,REST+,V,TF 1.8 VVC roadster,4411,2002
+MG,Lyon (Epoqu'auto),"MGA 1600 roadster LHD, roues fil, saute-vent",Jean-Pierre Osenat,25 030 €,REST,V,TF 1.8 VVC roadster,4411,2002
+,,,,,,,TF 1.8 VVC roadster,4410,2002
+MG,Paris,MGA Twin Cam coupé,Artcurial,35 760 €,REST,V,TF 1.8 VVC roadster,4410,2002
+MG,Londres,MGA Twin Cam coupé RHD overdrive,Bonhams,27 000 €,REST,V,TF 1.8 VVC roadster,4410,2002
+,,,,,,,TF 1.8 VVC roadster,4409,2002
+MG,Paris,"MGA Twin Cam roadster LHD, mot. 1600, roues fil",Claude Aguttes,29 800 €,REST/TR,V,TF 1.8 VVC roadster,4409,2002
+MG,Toffen,MGA Twin Cam roadster,Oldtimer Galerie,26 070 €,REST,V,TF 1.8 VVC roadster,4409,2002
+MG,Brooklands,MGA Twin Cam roadster RHD,Historics at Brooklands,37 550 €,REST,V,TF 1.8 VVC roadster,4409,2002
+MG,Paris,MGA Twin Cam roadster LHD,Leclère MDV,46 800 €,REST,V,TF 1.8 VVC roadster,4409,2002
+MG,Auburn,MGA Twin Cam roadster,RM Sotheby's,45 640 €,REST,V,TF 1.8 VVC roadster,4409,2002
+MG,Silverstone,MGA Twin Cam roadster RHD,Silverstone Auctions,44 090 €,REST,V,TF 1.8 VVC roadster,4409,2002
+MG,Auburn,MGA Twin Cam roadster,RM Sotheby's,29 010 €,REST,V,TF 1.8 VVC roadster,4409,2002
+MG,Monaco,MGA Twin Cam roadster hard-top ex-usine,RM Sotheby's,43 130 €,REST,V,TF 1.8 VVC roadster,4409,2002
+MG,Pebble Beach,MGA Twin Cam roadster,Gooding & Co,70 150 €,REST,V,TF 1.8 VVC roadster,4409,2002
+MG,Scottsdale,MGA Twin Cam roadster,Worldwide Auctioneers,46 540 €,REST,V,TF 1.8 VVC roadster,4409,2002
+MG,Scottsdale,MGA Twin Cam roadster,Gooding & Co.,54 320 €,REST,V,TF 1.8 VVC roadster,4409,2002
+MG,Duxford,MGA Twin Cam roadster LHD,H & H Classic Auctions,40 774 €,REST,V,TF 1.8 VVC roadster,4409,2002
+MG,Paris,MGA Twin Cam roadster LHD,Artcurial Motorcars,32 184 €,REST+,V,TF 1.8 VVC roadster,4409,2002
+MG,Pebble Beach,MGA Twin Cam roadster racing,Gooding & Co.,212 874 €,REST/TR,V,TF 1.8 VVC roadster,4409,2002
+MG,Fontainebleau,MGA Twin Cam roadster LHD,Jean-Pierre Osenat,48 000 €,REST+,V,TF 1.8 VVC roadster,4409,2002
+MG,Scottsdale,MGA Twin Cam roadster,Gooding & Co.,67 950 €,REST,V,TF 1.8 VVC roadster,4409,2002
+,,,,,,,TF 1.8 VVC roadster,4407,2002
+MG,Solterre,MGA 1500 roadster,Olivier Baron/Old Star Garage,30 060 €,REST,V,TF 1.8 VVC roadster,4407,2002
+MG,Fontainebleau,MGA 1500 roadster LHD ex-USA,Jean-Pierre Osenat,22 800 €,RAR,V,TF 1.8 VVC roadster,4407,2002
+MG,Ascott,MGA 1500 roadster (convertie en RHD),Historics at Brooklands,20 820 €,OR+,V,TF 1.8 VVC roadster,4407,2002
+MG,Brooklands,MGA 1500 roadster LHD,Historics at Brooklands,19 690 €,REST,V,TF 1.8 VVC roadster,4407,2002
+MG,Hershey,MGA 1500 roadster,RM Sotheby's,26 570 €,REST,V,TF 1.8 VVC roadster,4407,2002
+MG,Brooklands,MGA 1500 roadster LHD,Historics at Brooklands,26 150 €,REST,V,TF 1.8 VVC roadster,4407,2002
+MG,Fort Lauderdale,"MGA 1500 roadster, roues disque",RM Sotheby's,13 470 €,REST,V,TF 1.8 VVC roadster,4407,2002
+MG,Duxford,MGA 1500 roadster,H and H Classics,19 340 €,OR+,V,TF 1.8 VVC roadster,4407,2002
+MG,Fontainebleau,"MGA 1500 roadster LHD, roues disque",Osenat,25 200 €,REST,V,TF 1.8 VVC roadster,4407,2002
+MG,Fontainebleau,"MGA 1500 roadster LHD, roues disque",Osenat,28 800 €,REST,V,TF 1.8 VVC roadster,4407,2002
+MG,Amelia Island,MGA 1500 roadster,Bonhams,29 300 €,OR,V,TF 1.8 VVC roadster,4407,2002
+MG,Brooklands,MGA 1500 roadster RHD,Historics at Brooklands,29 020 €,REST,V,TF 1.8 VVC roadster,4407,2002
+MG,Beaulieu,MGA 1500 roadster,Bonhams,14 360 €,REST,V,TF 1.8 VVC roadster,4407,2002
+MG,Saint-Priest,"MGA 1500 roadster LHD, roues fil",Alcopa Auction Lyon,25 260 €,REST,V,TF 1.8 VVC roadster,4407,2002
+MG,Scottsdale,MGA 1500 roadster,Gooding & Co.,30 010 €,REST,V,TF 1.8 VVC roadster,4407,2002
+MG,Le Mans,"MGA roadster, moteur 1600, roues fil",Artcurial Motorcars,38 140 €,REST,V,TF 1.8 VVC roadster,4407,2002
+,,,,,,,TF 1.8 VVC roadster,2&idCote,2002
+MG,Albi,"MGA 1500 roadster, roues fil",Stanislas Machoïr,25 200 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Montastruc,MGA 1500 cabriolet LHD,Stanislas Machoïr,24 000 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,MGA 1600 roadster RHD,Bonhams,22 830 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Paris,"MGA 1500 roadster LHD, roues fil",Artcurial Motorcars,39 336 €,REST+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGA 1500 roadster LHD, roues disque",Jean-Pierre Osenat,26 400 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGA 1500 roadster LHD, roues fil",Jean-Pierre Osenat,19 668 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,MGA 1500 roadster,Bonhams,38 790 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Tarbes,MGA 1500 roadster,SVV Henri Adam / Romain Clertan,23 400 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGA 1500 roadster ex-USA, roues fil",Jean-Pierre Osenat,30 975 €,REST+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Harrogate,"MGA 1500 roadster RHD, roues disque",Bonhams,15 022 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,"A 1500 roadster LHD, roues disque",Bonhams,17 250 €,RAR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Duxford,MGA 1500 roadster RHD,H & H Classic Auctions,21 903 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Paris,"MGA roadster LHD, moteur 1800",Artcurial Motorcars,20 000 €,REST/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Goodwood,"MGA 1500 roadster LHD, roues disque",Bonhams,26 680 €,REST+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGA 1500 roadster LHD, roues disque",Jean-Pierre Osenat,18 000 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Montastruc,MGA 1500 roadster,FEE Machoïr / M. Pouteau,20 000 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+,,,,,,,TF 1.8 VVC roadster,2&idCote,2002
+MG,Albi,"MGA 1500 roadster, roues fil",Stanislas Machoïr,25 200 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Montastruc,MGA 1500 cabriolet LHD,Stanislas Machoïr,24 000 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,MGA 1600 roadster RHD,Bonhams,22 830 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Paris,"MGA 1500 roadster LHD, roues fil",Artcurial Motorcars,39 336 €,REST+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGA 1500 roadster LHD, roues disque",Jean-Pierre Osenat,26 400 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGA 1500 roadster LHD, roues fil",Jean-Pierre Osenat,19 668 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,MGA 1500 roadster,Bonhams,38 790 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Tarbes,MGA 1500 roadster,SVV Henri Adam / Romain Clertan,23 400 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGA 1500 roadster ex-USA, roues fil",Jean-Pierre Osenat,30 975 €,REST+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Harrogate,"MGA 1500 roadster RHD, roues disque",Bonhams,15 022 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,"A 1500 roadster LHD, roues disque",Bonhams,17 250 €,RAR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Duxford,MGA 1500 roadster RHD,H & H Classic Auctions,21 903 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Paris,"MGA roadster LHD, moteur 1800",Artcurial Motorcars,20 000 €,REST/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Goodwood,"MGA 1500 roadster LHD, roues disque",Bonhams,26 680 €,REST+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGA 1500 roadster LHD, roues disque",Jean-Pierre Osenat,18 000 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Montastruc,MGA 1500 roadster,FEE Machoïr / M. Pouteau,20 000 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+,,,,,,,TF 1.8 VVC roadster,2&idCote,2002
+MG,Albi,"MGA 1500 roadster, roues fil",Stanislas Machoïr,25 200 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Montastruc,MGA 1500 cabriolet LHD,Stanislas Machoïr,24 000 €,OR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,MGA 1600 roadster RHD,Bonhams,22 830 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Paris,"MGA 1500 roadster LHD, roues fil",Artcurial Motorcars,39 336 €,REST+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGA 1500 roadster LHD, roues disque",Jean-Pierre Osenat,26 400 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGA 1500 roadster LHD, roues fil",Jean-Pierre Osenat,19 668 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,MGA 1500 roadster,Bonhams,38 790 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Tarbes,MGA 1500 roadster,SVV Henri Adam / Romain Clertan,23 400 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGA 1500 roadster ex-USA, roues fil",Jean-Pierre Osenat,30 975 €,REST+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Harrogate,"MGA 1500 roadster RHD, roues disque",Bonhams,15 022 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Beaulieu,"A 1500 roadster LHD, roues disque",Bonhams,17 250 €,RAR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Duxford,MGA 1500 roadster RHD,H & H Classic Auctions,21 903 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Paris,"MGA roadster LHD, moteur 1800",Artcurial Motorcars,20 000 €,REST/TR,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Goodwood,"MGA 1500 roadster LHD, roues disque",Bonhams,26 680 €,REST+,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Fontainebleau,"MGA 1500 roadster LHD, roues disque",Jean-Pierre Osenat,18 000 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
+MG,Montastruc,MGA 1500 roadster,FEE Machoïr / M. Pouteau,20 000 €,REST,V,TF 1.8 VVC roadster,2&idCote,2002
