@@ -8,6 +8,7 @@
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
 BOT_NAME = 'oldtimertrends'
+#REDIRECT_ENABLE = False
 
 SPIDER_MODULES = ['oldtimertrends.spiders']
 NEWSPIDER_MODULE = 'oldtimertrends.spiders'
@@ -25,7 +26,17 @@ ROBOTSTXT_OBEY = False
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-DOWNLOAD_DELAY = 0.5
+DOWNLOAD_DELAY = 4
+# enable the middleware
+DOWNLOADER_MIDDLEWARES = {'scrapy_crawlera.CrawleraMiddleware': 610}
+# enable Zyte Proxy
+CRAWLERA_ENABLED = True
+# the APIkey you get with your subscription
+CRAWLERA_APIKEY = 'bc54ce68880d47f6acab455d4ea53e1a'
+DOWNLOADER_MIDDLEWARES = {
+    'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
+    'scrapy_user_agents.middlewares.RandomUserAgentMiddleware': 400,
+}
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16

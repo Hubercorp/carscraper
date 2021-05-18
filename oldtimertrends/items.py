@@ -18,5 +18,6 @@ class Car(Item):
     auction_restauration_code = Field()
     auction_price = Field()
     auction_location = Field()
+    auction_url = Field()
     quote_id = Field()
     
