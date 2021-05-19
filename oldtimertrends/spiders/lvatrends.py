@@ -1,7 +1,7 @@
 
 from scrapy import Spider, Request, Field, Item
 from scrapy.http import FormRequest
-from oldtimertrends.items import Car
+from oldtimertrends.items import Car, Quote
 
 class Lvacrawler(Spider):
     name = "lva_jean"
@@ -12,7 +12,7 @@ class Lvacrawler(Spider):
     
     custom_settings = {
         "DUPEFILTER_DEBUG":True,
-        "LOG_FILE": "log2102.txt" 
+        "LOG_FILE": "log1258.txt" 
     }
 
  
@@ -29,16 +29,17 @@ class Lvacrawler(Spider):
 	                                                "send": ""},
                                         callback=self.after_login)
     def after_login(self, response):
-        yield Request(url = "https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1"
+        yield Request(url = "https://www.lva-auto.fr/cote.php?idMarque=MA230&idModele=-1&rechercheType=1"
             , callback=self.list_quotes, dont_filter= True)
         
 
     def analyze_auction(self, response):
         
-        quote_id = response.request.url.split("=")[1] 
+        quote_id = response.request.url.split("idCote=")[1] 
             
         for row in response.css('tr'):
                 
+            auction_date = row.css('td:nth-child(2)::text').get()
             auction_brand =  row.css('h2::text').get()
             auction_model =  row.css('td:nth-child(3)::text').get()
             auction_organizor =  row.xpath('normalize-space(td[4])').get()
@@ -49,6 +50,7 @@ class Lvacrawler(Spider):
             
            
             mycar = Car()
+            mycar['auction_date'] = auction_date
             mycar['auction_brand'] = auction_brand
             mycar['auction_model'] = auction_model
             mycar['auction_organizor'] = auction_organizor
@@ -62,28 +64,42 @@ class Lvacrawler(Spider):
             yield mycar
 
 
-        next_page = response.css('.nextItem ::attr(href)').get()
-        print(type(next_page))
+        # next_page = response.css('.nextItem ::attr(href)').get()
+        # print(type(next_page))
         
-        if next_page is not None:
-            print("scrapped from css:",next_page)
+        # if next_page is not None:
+        #     print("scrapped from css:",next_page)
             
-            next_page = response.urljoin('{}&idCote={}'.format(next_page, mycar['quote_id']))
-            print("reconstructed:",next_page)
+        #     next_page = response.urljoin('{}&idCote={}'.format(next_page, mycar['quote_id']))
+        #     print("reconstructed:",next_page)
             
-            yield Request(next_page, callback=self.analyze_auction, dont_filter=True)
-            print("!!!!!!!!!!auction next page yielded!!!!!!!!!!!")
+        #     yield Request(next_page, callback=self.analyze_auction, dont_filter=True)
+        #     print("!!!!!!!!!!auction next page yielded!!!!!!!!!!!")
 
     
     def list_quotes(self, response):
         
         
+        brand = response.css('div.textpad a::text').get()
         for quote in response.css('ul.cote li'):
-            auction_url = quote.css('.link-result a::attr(href)').get()
-            # quote_id = auction_url.split("=")[1] if auction_url else None
-            # self.quoteid = quote_id
-            # print("//////////////",self.quoteid)
 
+            auction_url = quote.css('.link-result a::attr(href)').get()
+            quote_model = quote.css('strong a::text').get(),
+            quote_year = quote.css('.pricepad a::text').get(),
+            quote_max_price =  quote.css('.cote-max .pricepad::text').get(),
+            quote_id = auction_url.split("=")[1] if auction_url else None
+
+            myquote = Quote()
+
+            myquote['auction_url'] = auction_url
+            myquote['quote_model'] = quote_model
+            myquote['quote_year'] = quote_year
+            myquote['quote_max_price'] = quote_max_price
+            myquote['quote_id'] = quote_id
+
+            #yield myquote
+
+            
             if auction_url is not None:
                  url = response.urljoin(auction_url)
                 
@@ -97,14 +113,3 @@ class Lvacrawler(Spider):
                 next_page = response.urljoin(next_page)
                 yield Request(next_page, callback=self.list_quotes, dont_filter=True)
 
-""" class OldtimertrendsItem(Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    auction_brand : Field()
-    auction_model : Field()
-    auction_model : Field()
-    auction_organizor: Field()
-    action_sales_code: Field()
-    auction_restauration_code: Field()
-    action_price: Field()
-    action_location: Field() """

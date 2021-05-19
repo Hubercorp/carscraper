@@ -11,6 +11,7 @@ class Car(Item):
     # name = scrapy.Field()
     model = Field()
     year = Field()
+    auction_date = Field()
     auction_brand = Field()
     auction_model = Field()
     auction_organizor = Field()
@@ -20,4 +21,10 @@ class Car(Item):
     auction_location = Field()
     auction_url = Field()
     quote_id = Field()
-    
+
+class Quote(Item):
+    auction_url = Field()
+    quote_model = Field()
+    quote_year = Field()
+    quote_max_price = Field()
+    quote_id = Field()

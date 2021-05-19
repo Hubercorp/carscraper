@@ -9,6 +9,7 @@ class Lvacrawler(Spider):
     start_urls = [
         'https://www.lva-auto.fr/compte/login'
     ]
+    MODELS = [6932, 6935]
    
     def parse (self, response):
         yield FormRequest.from_response(response,
@@ -17,9 +18,11 @@ class Lvacrawler(Spider):
 	                                                "send": ""},
                                         callback=self.after_login)
     def after_login(self, response):
-        yield Request(url = "https://www.lva-auto.fr/cote.encheres.php?idCote=6932"
+        for model in range(len(self.MODELS)):   
+            yield Request(url = "https://www.lva-auto.fr/cote.encheres.php?idCote={}".format(self.MODELS[model])
             , callback=self.analyze_auction)
 
+        
     def analyze_auction(self, response):
         
         quote_id = response.request.url.split("=")[1]
@@ -44,7 +47,7 @@ class Lvacrawler(Spider):
             mycar['auction_price'] = auction_price
             mycar['auction_location'] = auction_location
             mycar['quote_id'] = quote_id
-            #yield mycar
+            yield mycar
 
 
                 
