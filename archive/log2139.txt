@@ -1,0 +1,1010 @@
+2021-05-18 21:39:28 [scrapy.extensions.telnet] INFO: Telnet Password: f91b047eab190f5d
+2021-05-18 21:39:28 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2021-05-18 21:39:29 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Android
+2021-05-18 21:39:29 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:30 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:30 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:30 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Sony BDV13, Brand: Sony, Model: BDV13
+2021-05-18 21:39:30 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Nintendo DSi, Brand: Nintendo, Model: DSi
+2021-05-18 21:39:30 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:30 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Other
+2021-05-18 21:39:30 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: LYF F90M, Brand: LYF, Model: F90M
+2021-05-18 21:39:30 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Sony BDV14, Brand: Sony, Model: BDV14
+2021-05-18 21:39:31 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: LG Web0S SmartTV, Brand: LG, Model: Web0S SmartTV
+2021-05-18 21:39:31 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:31 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:31 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:31 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:31 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:31 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:32 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:32 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Sony BDV11, Brand: Sony, Model: BDV11
+2021-05-18 21:39:32 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:32 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:32 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:32 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:32 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Nintendo DSi, Brand: Nintendo, Model: DSi
+2021-05-18 21:39:32 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: LYF LF-2403N, Brand: LYF, Model: LF-2403N
+2021-05-18 21:39:32 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: LYF F90M, Brand: LYF, Model: F90M
+2021-05-18 21:39:32 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:32 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:33 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Applebot
+2021-05-18 21:39:33 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:33 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Applebot
+2021-05-18 21:39:33 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Other
+2021-05-18 21:39:33 [scrapy.crawler] INFO: Received SIGINT, shutting down gracefully. Send again to force 
+2021-05-18 21:39:34 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Other
+2021-05-18 21:39:34 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2021-05-18 21:39:34 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: SMTBot
+2021-05-18 21:39:34 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2021-05-18 21:39:34 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2021-05-18 21:39:34 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: WebKit Nightly
+2021-05-18 21:39:34 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2021-05-18 21:39:34 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:35 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2021-05-18 21:39:35 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2021-05-18 21:39:35 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Robot
+2021-05-18 21:39:35 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:35 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Zune
+2021-05-18 21:39:35 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy_user_agents.middlewares.RandomUserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2021-05-18 21:39:35 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2021-05-18 21:39:35 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2021-05-18 21:39:35 [scrapy.core.engine] INFO: Spider opened
+2021-05-18 21:39:35 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2021-05-18 21:39:35 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2021-05-18 21:39:35 [scrapy.core.engine] INFO: Closing spider (shutdown)
+2021-05-18 21:39:35 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'elapsed_time_seconds': 0.00399,
+ 'finish_reason': 'shutdown',
+ 'finish_time': datetime.datetime(2021, 5, 18, 19, 39, 35, 457112),
+ 'log_count/INFO': 11,
+ 'log_count/WARNING': 45,
+ 'start_time': datetime.datetime(2021, 5, 18, 19, 39, 35, 453122)}
+2021-05-18 21:39:35 [scrapy.core.engine] INFO: Spider closed (shutdown)
+2021-05-18 21:39:55 [scrapy.extensions.telnet] INFO: Telnet Password: 4de9ec42b31303e8
+2021-05-18 21:39:55 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats']
+2021-05-18 21:39:56 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Android
+2021-05-18 21:39:56 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:56 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:57 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:57 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Sony BDV13, Brand: Sony, Model: BDV13
+2021-05-18 21:39:57 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Nintendo DSi, Brand: Nintendo, Model: DSi
+2021-05-18 21:39:57 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:57 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Other
+2021-05-18 21:39:57 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: LYF F90M, Brand: LYF, Model: F90M
+2021-05-18 21:39:57 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Sony BDV14, Brand: Sony, Model: BDV14
+2021-05-18 21:39:58 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: LG Web0S SmartTV, Brand: LG, Model: Web0S SmartTV
+2021-05-18 21:39:58 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:58 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:58 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:58 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:58 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:58 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:58 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:58 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Sony BDV11, Brand: Sony, Model: BDV11
+2021-05-18 21:39:58 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:58 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:58 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:59 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:59 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Nintendo DSi, Brand: Nintendo, Model: DSi
+2021-05-18 21:39:59 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: LYF LF-2403N, Brand: LYF, Model: LF-2403N
+2021-05-18 21:39:59 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: LYF F90M, Brand: LYF, Model: F90M
+2021-05-18 21:39:59 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:39:59 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:40:00 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Applebot
+2021-05-18 21:40:00 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:40:00 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Applebot
+2021-05-18 21:40:00 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Other
+2021-05-18 21:40:00 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Other
+2021-05-18 21:40:00 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2021-05-18 21:40:00 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: SMTBot
+2021-05-18 21:40:01 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2021-05-18 21:40:01 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2021-05-18 21:40:01 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: WebKit Nightly
+2021-05-18 21:40:01 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2021-05-18 21:40:01 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:40:01 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2021-05-18 21:40:01 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2021-05-18 21:40:01 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Robot
+2021-05-18 21:40:02 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2021-05-18 21:40:02 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Zune
+2021-05-18 21:40:02 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy_user_agents.middlewares.RandomUserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2021-05-18 21:40:02 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2021-05-18 21:40:02 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2021-05-18 21:40:02 [scrapy.core.engine] INFO: Spider opened
+2021-05-18 21:40:02 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2021-05-18 21:40:02 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2021-05-18 21:40:02 [scrapy_user_agents.middlewares] DEBUG: Assigned User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+2021-05-18 21:40:02 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/compte/login> (referer: None)
+2021-05-18 21:40:02 [scrapy_user_agents.middlewares] DEBUG: Assigned User-Agent Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+2021-05-18 21:40:07 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (302) to <GET https://www.lva-auto.fr/boutique/customer/account/> from <POST https://www.lva-auto.fr/boutique/customer/account/loginPost>
+2021-05-18 21:40:07 [scrapy_user_agents.middlewares] DEBUG: Assigned User-Agent Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+2021-05-18 21:40:12 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (302) to <GET https://www.lva-auto.fr/compte/mag_postlogin> from <GET https://www.lva-auto.fr/boutique/customer/account/>
+2021-05-18 21:40:12 [scrapy_user_agents.middlewares] DEBUG: Assigned User-Agent Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+2021-05-18 21:40:18 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (302) to <GET https://www.lva-auto.fr/> from <GET https://www.lva-auto.fr/compte/mag_postlogin>
+2021-05-18 21:40:18 [scrapy_user_agents.middlewares] DEBUG: Assigned User-Agent Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+2021-05-18 21:40:22 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/> (referer: https://www.lva-auto.fr/compte/login)
+2021-05-18 21:40:22 [scrapy_user_agents.middlewares] DEBUG: Assigned User-Agent Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36
+2021-05-18 21:40:27 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1> (referer: https://www.lva-auto.fr/)
+2021-05-18 21:40:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': (None,),
+ 'quote_model': (None,),
+ 'quote_year': (None,)}
+2021-05-18 21:40:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': 'cote.encheres.php?idCote=6967',
+ 'quote_id': '6967',
+ 'quote_max_price': ('80 000 €',),
+ 'quote_model': ('Typ 82 Kübelwagen',),
+ 'quote_year': ('1939',)}
+2021-05-18 21:40:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': 'cote.encheres.php?idCote=6968',
+ 'quote_id': '6968',
+ 'quote_max_price': ('140 000 €',),
+ 'quote_model': ('Typ 166 Schwimmwagen',),
+ 'quote_year': ('1941',)}
+2021-05-18 21:40:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': 'cote.encheres.php?idCote=11736',
+ 'quote_id': '11736',
+ 'quote_max_price': ('40 000 €',),
+ 'quote_model': ('Coccinelle (split) coach Standard',),
+ 'quote_year': ('1945',)}
+2021-05-18 21:40:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': 'cote.encheres.php?idCote=6930',
+ 'quote_id': '6930',
+ 'quote_max_price': ('35 000 €',),
+ 'quote_model': ('Coccinelle (split) coach Export',),
+ 'quote_year': ('1949',)}
+2021-05-18 21:40:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': 'cote.encheres.php?idCote=11737',
+ 'quote_id': '11737',
+ 'quote_max_price': ('30 000 €',),
+ 'quote_model': ('Coccinelle (ovale) coach Standard',),
+ 'quote_year': ('1953',)}
+2021-05-18 21:40:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': 'cote.encheres.php?idCote=6931',
+ 'quote_id': '6931',
+ 'quote_max_price': ('22 000 €',),
+ 'quote_model': ('Coccinelle (ovale) coach Export',),
+ 'quote_year': ('1953',)}
+2021-05-18 21:40:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': 'cote.encheres.php?idCote=11681',
+ 'quote_id': '11681',
+ 'quote_max_price': ('27 000 €',),
+ 'quote_model': ('Coccinelle 1200 coach Standard',),
+ 'quote_year': ('1957',)}
+2021-05-18 21:40:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': 'cote.encheres.php?idCote=6932',
+ 'quote_id': '6932',
+ 'quote_max_price': ('18 000 €',),
+ 'quote_model': ('Coccinelle 1200 coach Export',),
+ 'quote_year': ('1957',)}
+2021-05-18 21:40:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': 'cote.encheres.php?idCote=6933',
+ 'quote_id': '6933',
+ 'quote_max_price': ('12 500 €',),
+ 'quote_model': ('Coccinelle 1200 coach',),
+ 'quote_year': ('1967',)}
+2021-05-18 21:40:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': 'cote.encheres.php?idCote=11339',
+ 'quote_id': '11339',
+ 'quote_max_price': ('14 500 €',),
+ 'quote_model': ('Coccinelle 1200 Jeans coach',),
+ 'quote_year': ('1973',)}
+2021-05-18 21:40:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': 'cote.encheres.php?idCote=6934',
+ 'quote_id': '6934',
+ 'quote_max_price': ('10 000 €',),
+ 'quote_model': ('Coccinelle 1200 L coach',),
+ 'quote_year': ('1973',)}
+2021-05-18 21:40:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': 'cote.encheres.php?idCote=6935',
+ 'quote_id': '6935',
+ 'quote_max_price': ('9 000 €',),
+ 'quote_model': ('Coccinelle 1300 coach',),
+ 'quote_year': ('1966',)}
+2021-05-18 21:40:27 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': 'cote.encheres.php?idCote=6936',
+ 'quote_id': '6936',
+ 'quote_max_price': ('9 500 €',),
+ 'quote_model': ('Coccinelle 1500 coach',),
+ 'quote_year': ('1967',)}
+2021-05-18 21:40:28 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': 'cote.encheres.php?idCote=9530',
+ 'quote_id': '9530',
+ 'quote_max_price': ('11 500 €',),
+ 'quote_model': ('Coccinelle 1300 S coach (1600)',),
+ 'quote_year': ('1971',)}
+2021-05-18 21:40:28 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': 'cote.encheres.php?idCote=11564',
+ 'quote_id': '11564',
+ 'quote_max_price': ('8 000 €',),
+ 'quote_model': ('Coccinelle 1600 coach (Mexico)',),
+ 'quote_year': ('1979',)}
+2021-05-18 21:40:28 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1>
+{'auction_url': 'cote.encheres.php?idCote=6937',
+ 'quote_id': '6937',
+ 'quote_max_price': ('12 000 €',),
+ 'quote_model': ('Coccinelle 1302 coach',),
+ 'quote_year': ('1971',)}
+2021-05-18 21:40:28 [scrapy_user_agents.middlewares] DEBUG: Assigned User-Agent Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+2021-05-18 21:40:31 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2> (referer: https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1)
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': (None,),
+ 'quote_model': (None,),
+ 'quote_year': (None,)}
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('13 000 €',),
+ 'quote_model': ('Coccinelle 1302 S / LS coach (1600)',),
+ 'quote_year': ('1971',)}
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': 'cote.encheres.php?idCote=6938',
+ 'quote_id': '6938',
+ 'quote_max_price': ('9 000 €',),
+ 'quote_model': ('Coccinelle 1303 coach',),
+ 'quote_year': ('1973',)}
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': 'cote.encheres.php?idCote=8272',
+ 'quote_id': '8272',
+ 'quote_max_price': ('9 500 €',),
+ 'quote_model': ('Coccinelle 1303 S / LS coach (1600)',),
+ 'quote_year': ('1973',)}
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('12 000 €',),
+ 'quote_model': ('Coccinelle 1303 (S) Big coach',),
+ 'quote_year': ('1974',)}
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('85 000 €',),
+ 'quote_model': ('Coccinelle cabriolet 2 places Hebmüller',),
+ 'quote_year': ('1949',)}
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': 'cote.encheres.php?idCote=6939',
+ 'quote_id': '6939',
+ 'quote_max_price': ('60 000 €',),
+ 'quote_model': ('Coccinelle cabriolet Karmann',),
+ 'quote_year': ('1949',)}
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': 'cote.encheres.php?idCote=6940',
+ 'quote_id': '6940',
+ 'quote_max_price': ('45 000 €',),
+ 'quote_model': ('Coccinelle cabriolet Karmann',),
+ 'quote_year': ('1953',)}
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': 'cote.encheres.php?idCote=6941',
+ 'quote_id': '6941',
+ 'quote_max_price': ('27 000 €',),
+ 'quote_model': ('Coccinelle 1200 / 1300 cabriolet Karmann',),
+ 'quote_year': ('1958',)}
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': 'cote.encheres.php?idCote=6942',
+ 'quote_id': '6942',
+ 'quote_max_price': ('21 000 €',),
+ 'quote_model': ('Coccinelle 1500 cabriolet Karmann',),
+ 'quote_year': ('1967',)}
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': 'cote.encheres.php?idCote=6943',
+ 'quote_id': '6943',
+ 'quote_max_price': ('19 500 €',),
+ 'quote_model': ('Coccinelle 1302 L / LS cabriolet Karmann',),
+ 'quote_year': ('1971',)}
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': 'cote.encheres.php?idCote=6944',
+ 'quote_id': '6944',
+ 'quote_max_price': ('19 000 €',),
+ 'quote_model': ('Coccinelle 1303 L / LS cabriolet Karmann',),
+ 'quote_year': ('1973',)}
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': 'cote.encheres.php?idCote=8637',
+ 'quote_id': '8637',
+ 'quote_max_price': ('24 000 €',),
+ 'quote_model': ('Karmann-Ghia 1200 coupé (type 14, phares bas)',),
+ 'quote_year': ('1955',)}
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': 'cote.encheres.php?idCote=6946',
+ 'quote_id': '6946',
+ 'quote_max_price': ('19 000 €',),
+ 'quote_model': ('Karmann-Ghia 1200/1300 coupé (type 14)',),
+ 'quote_year': ('1960',)}
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': 'cote.encheres.php?idCote=6947',
+ 'quote_id': '6947',
+ 'quote_max_price': ('18 000 €',),
+ 'quote_model': ('Karmann-Ghia 1500/1600 coupé (type 14)',),
+ 'quote_year': ('1967',)}
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': 'cote.encheres.php?idCote=6948',
+ 'quote_id': '6948',
+ 'quote_max_price': ('16 000 €',),
+ 'quote_model': ('Karmann-Ghia 1600 coupé (type 14)',),
+ 'quote_year': ('1972',)}
+2021-05-18 21:40:31 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('33 000 €',),
+ 'quote_model': ('Karmann-Ghia 1200 cabriolet (type 14, phares bas)',),
+ 'quote_year': ('1958',)}
+2021-05-18 21:40:31 [scrapy_user_agents.middlewares] DEBUG: Assigned User-Agent Mozilla/5.0 (Windows NT 5.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36
+2021-05-18 21:40:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3> (referer: https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2)
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': (None,),
+ 'quote_model': (None,),
+ 'quote_year': (None,)}
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('23 000 €',),
+ 'quote_model': ('Karmann-Ghia 1200/1300 cabriolet',),
+ 'quote_year': ('1960',)}
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': 'cote.encheres.php?idCote=6950',
+ 'quote_id': '6950',
+ 'quote_max_price': ('22 000 €',),
+ 'quote_model': ('Karmann-Ghia 1500/1600 cabr. (type 14)',),
+ 'quote_year': ('1967',)}
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': 'cote.encheres.php?idCote=6951',
+ 'quote_id': '6951',
+ 'quote_max_price': ('21 000 €',),
+ 'quote_model': ('Karmann-Ghia 1600 cabriolet (type14)',),
+ 'quote_year': ('1972',)}
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('12 000 €',),
+ 'quote_model': ('Karmann-Ghia 1500 coupé (type 34)',),
+ 'quote_year': ('1962',)}
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('12 000 €',),
+ 'quote_model': ('Karmann-Ghia 1500 S coupé (type 34)',),
+ 'quote_year': ('1964',)}
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': 'cote.encheres.php?idCote=6954',
+ 'quote_id': '6954',
+ 'quote_max_price': ('12 500 €',),
+ 'quote_model': ('Karmann-Ghia 1600 L coupé (type 34)',),
+ 'quote_year': ('1966',)}
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('13 000 €',),
+ 'quote_model': ('Karmann-Ghia 1600 LE coupé (type 34)',),
+ 'quote_year': ('1968',)}
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('8 500 €',),
+ 'quote_model': ('1500 coach Typ 31 (notchback)',),
+ 'quote_year': ('1962',)}
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('9 000 €',),
+ 'quote_model': ('1500 S coach (notchback)',),
+ 'quote_year': ('1964',)}
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('9 000 €',),
+ 'quote_model': ('1600 L coach (notchback)',),
+ 'quote_year': ('1966',)}
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('8 000 €',),
+ 'quote_model': ('1600 LE coach (notchback)',),
+ 'quote_year': ('1970',)}
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': 'cote.encheres.php?idCote=6957',
+ 'quote_id': '6957',
+ 'quote_max_price': ('6 000 €',),
+ 'quote_model': ('1600 TL coupé (fastback)',),
+ 'quote_year': ('1966',)}
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('5 500 €',),
+ 'quote_model': ('1600 T / TA coupé (fastback)',),
+ 'quote_year': ('1970',)}
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': 'cote.encheres.php?idCote=6959',
+ 'quote_id': '6959',
+ 'quote_max_price': ('5 000 €',),
+ 'quote_model': ('1600 E coupé (fastback)',),
+ 'quote_year': ('1970',)}
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('7 000 €',),
+ 'quote_model': ('1500 Variant Typ 36 break ',),
+ 'quote_year': ('1962',)}
+2021-05-18 21:40:35 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('7 500 €',),
+ 'quote_model': ('1500 S Variant break',),
+ 'quote_year': ('1964',)}
+2021-05-18 21:40:35 [scrapy_user_agents.middlewares] DEBUG: Assigned User-Agent Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+2021-05-18 21:40:40 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4> (referer: https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=3)
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': (None,),
+ 'quote_model': (None,),
+ 'quote_year': (None,)}
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': 'cote.encheres.php?idCote=9532',
+ 'quote_id': '9532',
+ 'quote_max_price': ('7 500 €',),
+ 'quote_model': ('1600 L Variant break',),
+ 'quote_year': ('1966',)}
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('7 000 €',),
+ 'quote_model': ('1600 L / LE Variant break',),
+ 'quote_year': ('1970',)}
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': 'cote.encheres.php?idCote=8566',
+ 'quote_id': '8566',
+ 'quote_max_price': ('55 000 €',),
+ 'quote_model': ('Typ 2 fourgon / Combi',),
+ 'quote_year': ('1950',)}
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': 'cote.encheres.php?idCote=12117',
+ 'quote_id': '12117',
+ 'quote_max_price': ('22 000 €',),
+ 'quote_model': ('Typ 2 fourgon',),
+ 'quote_year': ('1955',)}
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': 'cote.encheres.php?idCote=11041',
+ 'quote_id': '11041',
+ 'quote_max_price': ('40 000 €',),
+ 'quote_model': ('Typ 22 Bus 8/9 places (standard)',),
+ 'quote_year': ('1955',)}
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': 'cote.encheres.php?idCote=8567',
+ 'quote_id': '8567',
+ 'quote_max_price': ('36 000 €',),
+ 'quote_model': ('Typ 23 Combi',),
+ 'quote_year': ('1955',)}
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': 'cote.encheres.php?idCote=11045',
+ 'quote_id': '11045',
+ 'quote_max_price': ('62 000 €',),
+ 'quote_model': ('Typ 23 Camping-car Westfalia',),
+ 'quote_year': ('1960',)}
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': 'cote.encheres.php?idCote=8568',
+ 'quote_id': '8568',
+ 'quote_max_price': ('60 000 €',),
+ 'quote_model': ('Typ 24 Bus De Luxe (23 fenêtres)',),
+ 'quote_year': ('1955',)}
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': 'cote.encheres.php?idCote=8569',
+ 'quote_id': '8569',
+ 'quote_max_price': ('48 000 €',),
+ 'quote_model': ('Typ 24 Bus de Luxe (21 fenêtres)',),
+ 'quote_year': ('1964',)}
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': 'cote.encheres.php?idCote=11042',
+ 'quote_id': '11042',
+ 'quote_max_price': ('32 000 €',),
+ 'quote_model': ('Typ 26 Pick-up',),
+ 'quote_year': ('1955',)}
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': 'cote.encheres.php?idCote=11044',
+ 'quote_id': '11044',
+ 'quote_max_price': ('36 000 €',),
+ 'quote_model': ('Typ 28 Bus 7 places',),
+ 'quote_year': ('1955',)}
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': 'cote.encheres.php?idCote=8570',
+ 'quote_id': '8570',
+ 'quote_max_price': ('12 000 €',),
+ 'quote_model': ('Typ 2 fourgon tôlé (bay-window)',),
+ 'quote_year': ('1968',)}
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': 'cote.encheres.php?idCote=8571',
+ 'quote_id': '8571',
+ 'quote_max_price': ('17 000 €',),
+ 'quote_model': ('Typ 2 Combi',),
+ 'quote_year': ('1968',)}
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': 'cote.encheres.php?idCote=8572',
+ 'quote_id': '8572',
+ 'quote_max_price': ('18 500 €',),
+ 'quote_model': ('Typ 2 Bus L (Clipper)',),
+ 'quote_year': ('1968',)}
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': 'cote.encheres.php?idCote=8573',
+ 'quote_id': '8573',
+ 'quote_max_price': ('24 500 €',),
+ 'quote_model': ('Typ 2 Camping',),
+ 'quote_year': ('1968',)}
+2021-05-18 21:40:40 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4>
+{'auction_url': 'cote.encheres.php?idCote=11835',
+ 'quote_id': '11835',
+ 'quote_max_price': ('7 000 €',),
+ 'quote_model': ('Transporter Syncro 2 litres 4 x 4',),
+ 'quote_year': ('1985',)}
+2021-05-18 21:40:40 [scrapy_user_agents.middlewares] DEBUG: Assigned User-Agent Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+2021-05-18 21:40:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5> (referer: https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=4)
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': (None,),
+ 'quote_model': (None,),
+ 'quote_year': (None,)}
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': 'cote.encheres.php?idCote=6962',
+ 'quote_id': '6962',
+ 'quote_max_price': ('2 500 €',),
+ 'quote_model': ('411 / 411 E 2 portes',),
+ 'quote_year': ('1969',)}
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('2 800 €',),
+ 'quote_model': ('411 L / 411 LE 2 portes',),
+ 'quote_year': ('1969',)}
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('2 500 €',),
+ 'quote_model': ('411 L / 411 LE 4 portes',),
+ 'quote_year': ('1969',)}
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('2 500 €',),
+ 'quote_model': ('411 Variant break',),
+ 'quote_year': ('1970',)}
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('2 000 €',),
+ 'quote_model': ('412 LE / 412 LS 2 portes',),
+ 'quote_year': ('1973',)}
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('2 000 €',),
+ 'quote_model': ('412 LE / 412 LS 4 portes',),
+ 'quote_year': ('1973',)}
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('2 000 €',),
+ 'quote_model': ('412 Variant break',),
+ 'quote_year': ('1973',)}
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': 'cote.encheres.php?idCote=11487',
+ 'quote_id': '11487',
+ 'quote_max_price': ('17 000 €',),
+ 'quote_model': ('SP-2 coupé (VW do Brasil)',),
+ 'quote_year': ('1972',)}
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('14 000 €',),
+ 'quote_model': ('Typ 147 fourgon postal (Fridolin)',),
+ 'quote_year': ('1965',)}
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': 'cote.encheres.php?idCote=6969',
+ 'quote_id': '6969',
+ 'quote_max_price': ('12 000 €',),
+ 'quote_model': ('181 torpédo',),
+ 'quote_year': ('1970',)}
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': 'cote.encheres.php?idCote=9542',
+ 'quote_id': '9542',
+ 'quote_max_price': ('4 000 €',),
+ 'quote_model': ('183 Iltis 4 x 4 torpédo',),
+ 'quote_year': ('1978',)}
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('3 000 €',),
+ 'quote_model': ('K 70 / K 70 L berline 1,6 l',),
+ 'quote_year': ('1970',)}
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('3 500 €',),
+ 'quote_model': ('K 70 LS berline 1,8 l',),
+ 'quote_year': ('1973',)}
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('3 000 €',),
+ 'quote_model': ('Passat TS 2 / 3 / 4 portes (85 ch)',),
+ 'quote_year': ('1974',)}
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': 'cote.encheres.php?idCote=12283',
+ 'quote_id': '12283',
+ 'quote_max_price': ('3 500 €',),
+ 'quote_model': ('Golf I 3 ou 5 portes (1.1 / 1.3 / 1.5 / 1.6)',),
+ 'quote_year': ('1975',)}
+2021-05-18 21:40:44 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5>
+{'auction_url': 'cote.encheres.php?idCote=8549',
+ 'quote_id': '8549',
+ 'quote_max_price': ('23 000 €',),
+ 'quote_model': ('Golf GTi 1600 (4 vitesses)',),
+ 'quote_year': ('1976',)}
+2021-05-18 21:40:44 [scrapy_user_agents.middlewares] DEBUG: Assigned User-Agent Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36
+2021-05-18 21:40:49 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6> (referer: https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=5)
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': (None,),
+ 'quote_model': (None,),
+ 'quote_year': (None,)}
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': 'cote.encheres.php?idCote=8574',
+ 'quote_id': '8574',
+ 'quote_max_price': ('18 000 €',),
+ 'quote_model': ('Golf GTi 1600 (5 vitesses)',),
+ 'quote_year': ('1980',)}
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': 'cote.encheres.php?idCote=8550',
+ 'quote_id': '8550',
+ 'quote_max_price': ('40 000 €',),
+ 'quote_model': ('Golf GTi 16 S Oettinger',),
+ 'quote_year': ('1981',)}
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': 'cote.encheres.php?idCote=8575',
+ 'quote_id': '8575',
+ 'quote_max_price': ('17 000 €',),
+ 'quote_model': ('Golf GTi 1800 / Rabbit GTi 3 portes',),
+ 'quote_year': ('1983',)}
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': 'cote.encheres.php?idCote=12284',
+ 'quote_id': '12284',
+ 'quote_max_price': ('7 000 €',),
+ 'quote_model': ('Golf GL / GLS Cabriolet (1.1 / 1.3 / 1.6)',),
+ 'quote_year': ('1979',)}
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': 'cote.encheres.php?idCote=11490',
+ 'quote_id': '11490',
+ 'quote_max_price': ('9 000 €',),
+ 'quote_model': ('Golf GLi Cabriolet',),
+ 'quote_year': ('1980',)}
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('6 000 €',),
+ 'quote_model': ('Jetta GLi 1.6 4 portes',),
+ 'quote_year': ('1978',)}
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('5 500 €',),
+ 'quote_model': ('Jetta GLi 1.8 4 portes (112 ch)',),
+ 'quote_year': ('1983',)}
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': 'cote.encheres.php?idCote=9545',
+ 'quote_id': '9545',
+ 'quote_max_price': ('8 000 €',),
+ 'quote_model': ('Golf II GTi 16 V 3 ou 5 portes (139 ch)',),
+ 'quote_year': ('1986',)}
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('8 500 €',),
+ 'quote_model': ('Golf II GTi (EV)',),
+ 'quote_year': ('1984',)}
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('6 000 €',),
+ 'quote_model': ('Golf II GTi 3 ou 5 portes (PB)',),
+ 'quote_year': ('1987',)}
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': 'cote.encheres.php?idCote=11738',
+ 'quote_id': '11738',
+ 'quote_max_price': ('12 000 €',),
+ 'quote_model': ('Golf II 1.8 Syncro 4 x 4',),
+ 'quote_year': ('1988',)}
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': 'cote.encheres.php?idCote=9546',
+ 'quote_id': '9546',
+ 'quote_max_price': ('26 000 €',),
+ 'quote_model': ('Golf II Rallye 4 x 4 (160 ch)',),
+ 'quote_year': ('1989',)}
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': 'cote.encheres.php?idCote=9547',
+ 'quote_id': '9547',
+ 'quote_max_price': ('14 000 €',),
+ 'quote_model': ('Golf II GTi G 60 3 ou 5 portes (160 ch)',),
+ 'quote_year': ('1990',)}
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('9 500 €',),
+ 'quote_model': ('Golf II Country 5 portes 4 x 4 (98 ch)',),
+ 'quote_year': ('1990',)}
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('3 000 €',),
+ 'quote_model': ('Golf III GTi 8V 3 ou 5 portes',),
+ 'quote_year': ('1993',)}
+2021-05-18 21:40:49 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('5 000 €',),
+ 'quote_model': ('Golf III GTi 16 V 3 portes',),
+ 'quote_year': ('1993',)}
+2021-05-18 21:40:49 [scrapy_user_agents.middlewares] DEBUG: Assigned User-Agent Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36
+2021-05-18 21:40:53 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7> (referer: https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=6)
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': (None,),
+ 'quote_model': (None,),
+ 'quote_year': (None,)}
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': 'cote.encheres.php?idCote=12541',
+ 'quote_id': '12541',
+ 'quote_max_price': ('3 500 €',),
+ 'quote_model': ('Golf III Cabriolet',),
+ 'quote_year': ('1994',)}
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('4 500 €',),
+ 'quote_model': ('Golf IV Cabriolet',),
+ 'quote_year': ('1998',)}
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('4 000 €',),
+ 'quote_model': ('Golf III GTi 20th Anniversary',),
+ 'quote_year': ('1996',)}
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': 'cote.encheres.php?idCote=11985',
+ 'quote_id': '11985',
+ 'quote_max_price': ('6 500 €',),
+ 'quote_model': ('Golf III VR 6 2.8 (174 ch)',),
+ 'quote_year': ('1992',)}
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': 'cote.encheres.php?idCote=11986',
+ 'quote_id': '11986',
+ 'quote_max_price': ('7 500 €',),
+ 'quote_model': ('Golf III VR 6 2.9 Syncro (190 ch)',),
+ 'quote_year': ('1996',)}
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('5 500 €',),
+ 'quote_model': ('Golf IV V6 4-Motion 3 ou 5 portes',),
+ 'quote_year': ('1998',)}
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': 'cote.encheres.php?idCote=12286',
+ 'quote_id': '12286',
+ 'quote_max_price': ('20 000 €',),
+ 'quote_model': ('Golf IV R 32 3 ou 5 portes',),
+ 'quote_year': ('2002',)}
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('16 500 €',),
+ 'quote_model': ('Golf V R 32 3 ou 5 portes',),
+ 'quote_year': ('2005',)}
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('2 500 €',),
+ 'quote_model': ('Jetta II GT 4 portes',),
+ 'quote_year': ('1984',)}
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('3 500 €',),
+ 'quote_model': ('Jetta II GT 16V / GTX 16S 4 portes',),
+ 'quote_year': ('1987',)}
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('4 500 €',),
+ 'quote_model': ('Vento VR6 4 portes',),
+ 'quote_year': ('1992',)}
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('4 000 €',),
+ 'quote_model': ('Scirocco L / GT 1100 / 1300',),
+ 'quote_year': ('1974',)}
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': 'cote.encheres.php?idCote=9541',
+ 'quote_id': '9541',
+ 'quote_max_price': ('6 500 €',),
+ 'quote_model': ('Scirocco TS / GT 1500 / 1600',),
+ 'quote_year': ('1974',)}
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('9 500 €',),
+ 'quote_model': ('Scirocco GLi / GTi',),
+ 'quote_year': ('1977',)}
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': 'cote.encheres.php?idCote=9549',
+ 'quote_id': '9549',
+ 'quote_max_price': ('3 500 €',),
+ 'quote_model': ('Scirocco II GLi / GTi / GTX (112 ch)',),
+ 'quote_year': ('1983',)}
+2021-05-18 21:40:54 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('4 500 €',),
+ 'quote_model': ('Scirocco II GTX 16 V (139 ch)',),
+ 'quote_year': ('1985',)}
+2021-05-18 21:40:54 [scrapy_user_agents.middlewares] DEBUG: Assigned User-Agent Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+2021-05-18 21:40:59 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=8> (referer: https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=7)
+2021-05-18 21:40:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=8>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': (None,),
+ 'quote_model': (None,),
+ 'quote_year': (None,)}
+2021-05-18 21:40:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=8>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('4 500 €',),
+ 'quote_model': ('Corrado 115 ch',),
+ 'quote_year': ('1989',)}
+2021-05-18 21:40:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=8>
+{'auction_url': 'cote.encheres.php?idCote=11488',
+ 'quote_id': '11488',
+ 'quote_max_price': ('4 800 €',),
+ 'quote_model': ('Corrado 16 V',),
+ 'quote_year': ('1989',)}
+2021-05-18 21:40:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=8>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('6 000 €',),
+ 'quote_model': ('Corrado G 60',),
+ 'quote_year': ('1989',)}
+2021-05-18 21:40:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=8>
+{'auction_url': 'cote.encheres.php?idCote=11438',
+ 'quote_id': '11438',
+ 'quote_max_price': ('7 500 €',),
+ 'quote_model': ('Corrado VR 6',),
+ 'quote_year': ('1992',)}
+2021-05-18 21:40:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=8>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('2 000 €',),
+ 'quote_model': ('Derby CL / CLS coach',),
+ 'quote_year': ('1977',)}
+2021-05-18 21:40:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=8>
+{'auction_url': 'cote.encheres.php?idCote=12417',
+ 'quote_id': '12417',
+ 'quote_max_price': ('2 000 €',),
+ 'quote_model': ('Polo (I) coach',),
+ 'quote_year': ('1976',)}
+2021-05-18 21:40:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=8>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('2 400 €',),
+ 'quote_model': ('Polo GT 1.3 (60 ch)',),
+ 'quote_year': ('1980',)}
+2021-05-18 21:40:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=8>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('2 500 €',),
+ 'quote_model': ('Polo II Coupé GT 1.3 (75 ch)',),
+ 'quote_year': ('1983',)}
+2021-05-18 21:40:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=8>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('5 500 €',),
+ 'quote_model': ('Polo II Coupé G 40 (115 ch)',),
+ 'quote_year': ('1987',)}
+2021-05-18 21:40:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=8>
+{'auction_url': 'cote.encheres.php?idCote=12282',
+ 'quote_id': '12282',
+ 'quote_max_price': ('4 000 €',),
+ 'quote_model': ('Polo III Coupé G 40',),
+ 'quote_year': ('1991',)}
+2021-05-18 21:40:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=8>
+{'auction_url': 'cote.encheres.php?idCote=12472',
+ 'quote_id': '12472',
+ 'quote_max_price': ('9 000 €',),
+ 'quote_model': ('Lupo GTi 3 portes',),
+ 'quote_year': ('2000',)}
+2021-05-18 21:40:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=8>
+{'auction_url': 'cote.encheres.php?idCote=12287',
+ 'quote_id': '12287',
+ 'quote_max_price': ('42 500 €',),
+ 'quote_model': ('New Beetle RSi 32V',),
+ 'quote_year': ('2000',)}
+2021-05-18 21:40:59 [scrapy.core.scraper] DEBUG: Scraped from <200 https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=8>
+{'auction_url': None,
+ 'quote_id': None,
+ 'quote_max_price': ('8 500 €',),
+ 'quote_model': ('New Beetle Cabriolet',),
+ 'quote_year': ('2003',)}
+2021-05-18 21:40:59 [scrapy.core.engine] INFO: Closing spider (finished)
+2021-05-18 21:40:59 [scrapy.extensions.feedexport] INFO: Stored csv feed (133 items) in: vwquote.csv
+2021-05-18 21:40:59 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 7973,
+ 'downloader/request_count': 13,
+ 'downloader/request_method_count/GET': 12,
+ 'downloader/request_method_count/POST': 1,
+ 'downloader/response_bytes': 143873,
+ 'downloader/response_count': 13,
+ 'downloader/response_status_count/200': 10,
+ 'downloader/response_status_count/302': 3,
+ 'elapsed_time_seconds': 57.186432,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 5, 18, 19, 40, 59, 520878),
+ 'httpcompression/response_bytes': 714456,
+ 'httpcompression/response_count': 10,
+ 'item_scraped_count': 133,
+ 'log_count/DEBUG': 159,
+ 'log_count/INFO': 11,
+ 'log_count/WARNING': 45,
+ 'request_depth_max': 9,
+ 'response_received_count': 10,
+ 'scheduler/dequeued': 13,
+ 'scheduler/dequeued/memory': 13,
+ 'scheduler/enqueued': 13,
+ 'scheduler/enqueued/memory': 13,
+ 'start_time': datetime.datetime(2021, 5, 18, 19, 40, 2, 334446)}
+2021-05-18 21:40:59 [scrapy.core.engine] INFO: Spider closed (finished)

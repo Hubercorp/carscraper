@@ -9,7 +9,7 @@ class Lvacrawler(Spider):
     start_urls = [
         'https://www.lva-auto.fr/compte/login'
     ]
-    MODELS = [6932, 6935]
+    MODELS = [4175]
    
     def parse (self, response):
         yield FormRequest.from_response(response,
@@ -28,7 +28,7 @@ class Lvacrawler(Spider):
         quote_id = response.request.url.split("=")[1]
         for row in response.css('tr'):
                 
-            
+            auction_date = row.css('td:nth-child(2)::text').get()
             auction_brand =  row.css('h2::text').get()
             auction_model =  row.css('td:nth-child(3)::text').get()
             auction_organizor =  row.xpath('normalize-space(td[4])').get()
@@ -38,7 +38,7 @@ class Lvacrawler(Spider):
             auction_location = row.css('td:nth-child(8)::text').get()
 
             mycar= Car()
-
+            mycar['auction_date'] = auction_date
             mycar['auction_brand'] = auction_brand
             mycar['auction_model'] = auction_model
             mycar['auction_organizor'] = auction_organizor
@@ -57,3 +57,4 @@ class Lvacrawler(Spider):
             next_page = response.urljoin(next_page)
             print("TO",next_page)
             yield Request(next_page, callback=self.analyze_auction)
+

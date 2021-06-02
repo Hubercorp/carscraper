@@ -1,0 +1,222 @@
+2021-05-16 08:18:35 [scrapy.extensions.telnet] INFO: Telnet Password: 89c05850e1b30dcf
+2021-05-16 08:18:36 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats']
+2021-05-16 08:18:36 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2021-05-16 08:18:36 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2021-05-16 08:18:36 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2021-05-16 08:18:36 [scrapy.core.engine] INFO: Spider opened
+2021-05-16 08:18:36 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2021-05-16 08:18:36 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2021-05-16 08:18:36 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/compte/login> (referer: None)
+2021-05-16 08:18:37 [scrapy.core.engine] DEBUG: Crawled (403) <POST https://www.lva-auto.fr/boutique/customer/account/loginPost> (referer: https://www.lva-auto.fr/compte/login)
+2021-05-16 08:18:37 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.lva-auto.fr/boutique/customer/account/loginPost>: HTTP status code is not handled or not allowed
+2021-05-16 08:18:37 [scrapy.core.engine] INFO: Closing spider (finished)
+2021-05-16 08:18:37 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 981,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/request_method_count/POST': 1,
+ 'downloader/response_bytes': 5044,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 1,
+ 'downloader/response_status_count/403': 1,
+ 'elapsed_time_seconds': 0.688673,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 5, 16, 6, 18, 37, 111941),
+ 'httpcompression/response_bytes': 7790,
+ 'httpcompression/response_count': 1,
+ 'httperror/response_ignored_count': 1,
+ 'httperror/response_ignored_status_count/403': 1,
+ 'log_count/DEBUG': 2,
+ 'log_count/INFO': 11,
+ 'request_depth_max': 1,
+ 'response_received_count': 2,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2021, 5, 16, 6, 18, 36, 423268)}
+2021-05-16 08:18:37 [scrapy.core.engine] INFO: Spider closed (finished)
+2021-05-16 08:20:41 [scrapy.extensions.telnet] INFO: Telnet Password: 7bc9f2bb72249533
+2021-05-16 08:20:41 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats']
+2021-05-16 08:20:42 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2021-05-16 08:20:42 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2021-05-16 08:20:42 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2021-05-16 08:20:42 [scrapy.core.engine] INFO: Spider opened
+2021-05-16 08:20:42 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2021-05-16 08:20:42 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2021-05-16 08:20:42 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (302) to <GET https://www.lva-auto.fr/compte/login> from <GET https://www.lva-auto.fr/compte/login>
+2021-05-16 08:20:43 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.lva-auto.fr/compte/login> (referer: None)
+2021-05-16 08:20:43 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.lva-auto.fr/compte/login>: HTTP status code is not handled or not allowed
+2021-05-16 08:20:43 [scrapy.core.engine] INFO: Closing spider (finished)
+2021-05-16 08:20:43 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 628,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 1708,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/302': 1,
+ 'downloader/response_status_count/403': 1,
+ 'elapsed_time_seconds': 0.876623,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 5, 16, 6, 20, 43, 182282),
+ 'httperror/response_ignored_count': 1,
+ 'httperror/response_ignored_status_count/403': 1,
+ 'log_count/DEBUG': 2,
+ 'log_count/INFO': 11,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2021, 5, 16, 6, 20, 42, 305659)}
+2021-05-16 08:20:43 [scrapy.core.engine] INFO: Spider closed (finished)
+2021-05-16 08:21:58 [scrapy.extensions.telnet] INFO: Telnet Password: ebaa6b49a97a0102
+2021-05-16 08:21:58 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2021-05-16 08:21:59 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2021-05-16 08:21:59 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2021-05-16 08:21:59 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2021-05-16 08:21:59 [scrapy.core.engine] INFO: Spider opened
+2021-05-16 08:21:59 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2021-05-16 08:21:59 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2021-05-16 08:21:59 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (302) to <GET https://www.lva-auto.fr/compte/login> from <GET https://www.lva-auto.fr/compte/login>
+2021-05-16 08:21:59 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.lva-auto.fr/compte/login> (referer: None)
+2021-05-16 08:22:00 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.lva-auto.fr/compte/login>: HTTP status code is not handled or not allowed
+2021-05-16 08:22:00 [scrapy.core.engine] INFO: Closing spider (finished)
+2021-05-16 08:22:00 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 628,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 1710,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/302': 1,
+ 'downloader/response_status_count/403': 1,
+ 'elapsed_time_seconds': 0.69235,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 5, 16, 6, 22, 0, 13588),
+ 'httperror/response_ignored_count': 1,
+ 'httperror/response_ignored_status_count/403': 1,
+ 'log_count/DEBUG': 2,
+ 'log_count/INFO': 11,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2021, 5, 16, 6, 21, 59, 321238)}
+2021-05-16 08:22:00 [scrapy.core.engine] INFO: Spider closed (finished)
+2021-05-16 08:29:25 [scrapy.extensions.telnet] INFO: Telnet Password: 6d04050c064c1b93
+2021-05-16 08:29:25 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2021-05-16 08:29:25 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2021-05-16 08:29:25 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2021-05-16 08:29:25 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2021-05-16 08:29:25 [scrapy.core.engine] INFO: Spider opened
+2021-05-16 08:29:25 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2021-05-16 08:29:25 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2021-05-16 08:29:26 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (302) to <GET https://www.lva-auto.fr/compte/login> from <GET https://www.lva-auto.fr/compte/login>
+2021-05-16 08:29:26 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.lva-auto.fr/compte/login> (referer: None)
+2021-05-16 08:29:26 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <403 https://www.lva-auto.fr/compte/login>: HTTP status code is not handled or not allowed
+2021-05-16 08:29:26 [scrapy.core.engine] INFO: Closing spider (finished)
+2021-05-16 08:29:26 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 629,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 1708,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/302': 1,
+ 'downloader/response_status_count/403': 1,
+ 'elapsed_time_seconds': 0.917721,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 5, 16, 6, 29, 26, 857035),
+ 'httperror/response_ignored_count': 1,
+ 'httperror/response_ignored_status_count/403': 1,
+ 'log_count/DEBUG': 2,
+ 'log_count/INFO': 11,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2021, 5, 16, 6, 29, 25, 939314)}
+2021-05-16 08:29:26 [scrapy.core.engine] INFO: Spider closed (finished)

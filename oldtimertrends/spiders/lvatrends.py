@@ -10,10 +10,10 @@ class Lvacrawler(Spider):
     ]
    
     
-    custom_settings = {
-        "DUPEFILTER_DEBUG":True,
-        "LOG_FILE": "log1258.txt" 
-    }
+    # custom_settings = {
+    #     "DUPEFILTER_DEBUG":True,
+    #     "LOG_FILE": "log1258.txt" 
+    # }
 
  
     def init (self):
@@ -29,7 +29,7 @@ class Lvacrawler(Spider):
 	                                                "send": ""},
                                         callback=self.after_login)
     def after_login(self, response):
-        yield Request(url = "https://www.lva-auto.fr/cote.php?idMarque=MA230&idModele=-1&rechercheType=1"
+        yield Request(url = "https://www.lva-auto.fr/cote.php?idMarque=MA154&idModele=-1&rechercheType=1"
             , callback=self.list_quotes, dont_filter= True)
         
 
@@ -97,7 +97,7 @@ class Lvacrawler(Spider):
             myquote['quote_max_price'] = quote_max_price
             myquote['quote_id'] = quote_id
 
-            #yield myquote
+            yield myquote
 
             
             if auction_url is not None:

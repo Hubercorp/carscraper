@@ -1,0 +1,372 @@
+2021-05-17 15:57:33 [scrapy.extensions.telnet] INFO: Telnet Password: ff82010f6566eed7
+2021-05-17 15:57:33 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2021-05-17 15:57:33 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy_crawlera.CrawleraMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2021-05-17 15:57:33 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2021-05-17 15:57:33 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2021-05-17 15:57:33 [scrapy.core.engine] INFO: Spider opened
+2021-05-17 15:57:33 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2021-05-17 15:57:33 [root] INFO: Using crawlera at http://proxy.crawlera.com:8010 (apikey: bc54ce6)
+2021-05-17 15:57:33 [root] INFO: CrawleraMiddleware: disabling download delays on Scrapy side to optimize delays introduced by Crawlera. To avoid this behaviour you can use the CRAWLERA_PRESERVE_DELAY setting but keep in mind that this may slow down the crawl significantly
+2021-05-17 15:57:33 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2021-05-17 15:57:35 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/compte/login> (referer: None)
+2021-05-17 15:57:37 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (302) to <GET https://www.lva-auto.fr/boutique/enable-cookies> from <POST https://www.lva-auto.fr/boutique/customer/account/loginPost>
+2021-05-17 15:57:38 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/boutique/enable-cookies> (referer: https://www.lva-auto.fr/compte/login)
+2021-05-17 15:57:40 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1> (referer: https://www.lva-auto.fr/boutique/enable-cookies)
+2021-05-17 15:57:41 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/cote.php?cote_php?cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2> (referer: https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1)
+2021-05-17 15:57:41 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.lva-auto.fr/cote.php?cote_php?cote.php?idMarque=MA55&idModele=-1&rechercheType=1&page=2> (referer: https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1)
+Traceback (most recent call last):
+  File "c:\users\portable\anaconda3\envs\marseille\lib\site-packages\scrapy\utils\defer.py", line 120, in iter_errback
+    yield next(it)
+  File "c:\users\portable\anaconda3\envs\marseille\lib\site-packages\scrapy\utils\python.py", line 353, in __next__
+    return next(self.data)
+  File "c:\users\portable\anaconda3\envs\marseille\lib\site-packages\scrapy\utils\python.py", line 353, in __next__
+    return next(self.data)
+  File "c:\users\portable\anaconda3\envs\marseille\lib\site-packages\scrapy\core\spidermw.py", line 56, in _evaluate_iterable
+    for r in iterable:
+  File "c:\users\portable\anaconda3\envs\marseille\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\portable\anaconda3\envs\marseille\lib\site-packages\scrapy\core\spidermw.py", line 56, in _evaluate_iterable
+    for r in iterable:
+  File "c:\users\portable\anaconda3\envs\marseille\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 342, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\portable\anaconda3\envs\marseille\lib\site-packages\scrapy\core\spidermw.py", line 56, in _evaluate_iterable
+    for r in iterable:
+  File "c:\users\portable\anaconda3\envs\marseille\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 40, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\portable\anaconda3\envs\marseille\lib\site-packages\scrapy\core\spidermw.py", line 56, in _evaluate_iterable
+    for r in iterable:
+  File "c:\users\portable\anaconda3\envs\marseille\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\portable\anaconda3\envs\marseille\lib\site-packages\scrapy\core\spidermw.py", line 56, in _evaluate_iterable
+    for r in iterable:
+  File "c:\users\portable\oldtimertrends\oldtimertrends\spiders\lvatrendsauction.py", line 92, in list_quotes
+    page_number = next_page.split("page=")[1]
+AttributeError: 'NoneType' object has no attribute 'split'
+2021-05-17 15:57:41 [scrapy.core.engine] INFO: Closing spider (finished)
+2021-05-17 15:57:41 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'crawlera/delay/reset_backoff': 5,
+ 'crawlera/request': 5,
+ 'crawlera/request/method/GET': 4,
+ 'crawlera/request/method/POST': 1,
+ 'crawlera/response': 5,
+ 'crawlera/response/status/200': 4,
+ 'crawlera/response/status/302': 1,
+ 'downloader/request_bytes': 4004,
+ 'downloader/request_count': 5,
+ 'downloader/request_method_count/GET': 4,
+ 'downloader/request_method_count/POST': 1,
+ 'downloader/response_bytes': 42607,
+ 'downloader/response_count': 5,
+ 'downloader/response_status_count/200': 4,
+ 'downloader/response_status_count/302': 1,
+ 'elapsed_time_seconds': 7.893877,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 5, 17, 13, 57, 41, 839939),
+ 'httpcompression/response_bytes': 171499,
+ 'httpcompression/response_count': 4,
+ 'log_count/DEBUG': 5,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 12,
+ 'request_depth_max': 3,
+ 'response_received_count': 4,
+ 'scheduler/dequeued': 5,
+ 'scheduler/dequeued/memory': 5,
+ 'scheduler/enqueued': 5,
+ 'scheduler/enqueued/memory': 5,
+ 'spider_exceptions/AttributeError': 1,
+ 'start_time': datetime.datetime(2021, 5, 17, 13, 57, 33, 946062)}
+2021-05-17 15:57:41 [scrapy.core.engine] INFO: Spider closed (finished)
+2021-05-17 15:59:58 [scrapy.extensions.telnet] INFO: Telnet Password: 8c9dca6221ac304f
+2021-05-17 15:59:58 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2021-05-17 15:59:58 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy_crawlera.CrawleraMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2021-05-17 15:59:58 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2021-05-17 15:59:58 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2021-05-17 15:59:58 [scrapy.core.engine] INFO: Spider opened
+2021-05-17 15:59:58 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2021-05-17 15:59:58 [root] INFO: Using crawlera at http://proxy.crawlera.com:8010 (apikey: bc54ce6)
+2021-05-17 15:59:58 [root] INFO: CrawleraMiddleware: disabling download delays on Scrapy side to optimize delays introduced by Crawlera. To avoid this behaviour you can use the CRAWLERA_PRESERVE_DELAY setting but keep in mind that this may slow down the crawl significantly
+2021-05-17 15:59:58 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2021-05-17 15:59:59 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/compte/login> (referer: None)
+2021-05-17 16:00:01 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (302) to <GET https://www.lva-auto.fr/boutique/enable-cookies> from <POST https://www.lva-auto.fr/boutique/customer/account/loginPost>
+2021-05-17 16:00:02 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/boutique/enable-cookies> (referer: https://www.lva-auto.fr/compte/login)
+2021-05-17 16:00:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1> (referer: https://www.lva-auto.fr/boutique/enable-cookies)
+2021-05-17 16:00:04 [scrapy.core.engine] INFO: Closing spider (finished)
+2021-05-17 16:00:04 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'crawlera/delay/reset_backoff': 4,
+ 'crawlera/request': 4,
+ 'crawlera/request/method/GET': 3,
+ 'crawlera/request/method/POST': 1,
+ 'crawlera/response': 4,
+ 'crawlera/response/status/200': 3,
+ 'crawlera/response/status/302': 1,
+ 'downloader/request_bytes': 3071,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 3,
+ 'downloader/request_method_count/POST': 1,
+ 'downloader/response_bytes': 29544,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 3,
+ 'downloader/response_status_count/302': 1,
+ 'elapsed_time_seconds': 6.632217,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 5, 17, 14, 0, 4, 819388),
+ 'httpcompression/response_bytes': 118902,
+ 'httpcompression/response_count': 3,
+ 'log_count/DEBUG': 4,
+ 'log_count/INFO': 12,
+ 'request_depth_max': 2,
+ 'response_received_count': 3,
+ 'scheduler/dequeued': 4,
+ 'scheduler/dequeued/memory': 4,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'start_time': datetime.datetime(2021, 5, 17, 13, 59, 58, 187171)}
+2021-05-17 16:00:04 [scrapy.core.engine] INFO: Spider closed (finished)
+2021-05-17 16:06:42 [scrapy.extensions.telnet] INFO: Telnet Password: 9839f1a9223248ed
+2021-05-17 16:06:42 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2021-05-17 16:06:42 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy_crawlera.CrawleraMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2021-05-17 16:06:42 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2021-05-17 16:06:42 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2021-05-17 16:06:42 [scrapy.core.engine] INFO: Spider opened
+2021-05-17 16:06:42 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2021-05-17 16:06:42 [root] INFO: Using crawlera at http://proxy.crawlera.com:8010 (apikey: bc54ce6)
+2021-05-17 16:06:42 [root] INFO: CrawleraMiddleware: disabling download delays on Scrapy side to optimize delays introduced by Crawlera. To avoid this behaviour you can use the CRAWLERA_PRESERVE_DELAY setting but keep in mind that this may slow down the crawl significantly
+2021-05-17 16:06:42 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2021-05-17 16:06:44 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/compte/login> (referer: None)
+2021-05-17 16:06:46 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (302) to <GET https://www.lva-auto.fr/boutique/enable-cookies> from <POST https://www.lva-auto.fr/boutique/customer/account/loginPost>
+2021-05-17 16:06:49 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/boutique/enable-cookies> (referer: https://www.lva-auto.fr/compte/login)
+2021-05-17 16:06:51 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1> (referer: https://www.lva-auto.fr/boutique/enable-cookies)
+2021-05-17 16:06:51 [scrapy.core.engine] INFO: Closing spider (finished)
+2021-05-17 16:06:51 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'crawlera/delay/reset_backoff': 4,
+ 'crawlera/request': 4,
+ 'crawlera/request/method/GET': 3,
+ 'crawlera/request/method/POST': 1,
+ 'crawlera/response': 4,
+ 'crawlera/response/status/200': 3,
+ 'crawlera/response/status/302': 1,
+ 'downloader/request_bytes': 3051,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 3,
+ 'downloader/request_method_count/POST': 1,
+ 'downloader/response_bytes': 29537,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 3,
+ 'downloader/response_status_count/302': 1,
+ 'elapsed_time_seconds': 8.987214,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 5, 17, 14, 6, 51, 738604),
+ 'httpcompression/response_bytes': 118904,
+ 'httpcompression/response_count': 3,
+ 'log_count/DEBUG': 4,
+ 'log_count/INFO': 12,
+ 'request_depth_max': 2,
+ 'response_received_count': 3,
+ 'scheduler/dequeued': 4,
+ 'scheduler/dequeued/memory': 4,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'start_time': datetime.datetime(2021, 5, 17, 14, 6, 42, 751390)}
+2021-05-17 16:06:51 [scrapy.core.engine] INFO: Spider closed (finished)
+2021-05-18 17:32:54 [scrapy.extensions.telnet] INFO: Telnet Password: f11189c6938dbd3a
+2021-05-18 17:32:55 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2021-05-18 17:32:55 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy_crawlera.CrawleraMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2021-05-18 17:32:55 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2021-05-18 17:32:55 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2021-05-18 17:32:55 [scrapy.core.engine] INFO: Spider opened
+2021-05-18 17:32:55 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2021-05-18 17:32:55 [root] INFO: Using crawlera at http://proxy.crawlera.com:8010 (apikey: bc54ce6)
+2021-05-18 17:32:55 [root] INFO: CrawleraMiddleware: disabling download delays on Scrapy side to optimize delays introduced by Crawlera. To avoid this behaviour you can use the CRAWLERA_PRESERVE_DELAY setting but keep in mind that this may slow down the crawl significantly
+2021-05-18 17:32:55 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2021-05-18 17:32:58 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/compte/login> (referer: None)
+2021-05-18 17:33:00 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (302) to <GET https://www.lva-auto.fr/boutique/enable-cookies> from <POST https://www.lva-auto.fr/boutique/customer/account/loginPost>
+2021-05-18 17:33:02 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/boutique/enable-cookies> (referer: https://www.lva-auto.fr/compte/login)
+2021-05-18 17:33:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/cote.php?idMarque=MA55&idModele=-1&rechercheType=1> (referer: https://www.lva-auto.fr/boutique/enable-cookies)
+2021-05-18 17:33:09 [scrapy.core.engine] INFO: Closing spider (finished)
+2021-05-18 17:33:09 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'crawlera/delay/reset_backoff': 4,
+ 'crawlera/request': 4,
+ 'crawlera/request/method/GET': 3,
+ 'crawlera/request/method/POST': 1,
+ 'crawlera/response': 4,
+ 'crawlera/response/status/200': 3,
+ 'crawlera/response/status/302': 1,
+ 'downloader/request_bytes': 3075,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 3,
+ 'downloader/request_method_count/POST': 1,
+ 'downloader/response_bytes': 29705,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 3,
+ 'downloader/response_status_count/302': 1,
+ 'elapsed_time_seconds': 13.871633,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 5, 18, 15, 33, 9, 379352),
+ 'httpcompression/response_bytes': 119420,
+ 'httpcompression/response_count': 3,
+ 'log_count/DEBUG': 4,
+ 'log_count/INFO': 12,
+ 'request_depth_max': 2,
+ 'response_received_count': 3,
+ 'scheduler/dequeued': 4,
+ 'scheduler/dequeued/memory': 4,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'start_time': datetime.datetime(2021, 5, 18, 15, 32, 55, 507719)}
+2021-05-18 17:33:09 [scrapy.core.engine] INFO: Spider closed (finished)
+2021-05-18 19:01:19 [scrapy.extensions.telnet] INFO: Telnet Password: 2f384eeeb2936a91
+2021-05-18 19:01:19 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2021-05-18 19:01:19 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy_crawlera.CrawleraMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2021-05-18 19:01:19 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2021-05-18 19:01:19 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2021-05-18 19:01:19 [scrapy.core.engine] INFO: Spider opened
+2021-05-18 19:01:19 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2021-05-18 19:01:19 [root] INFO: Using crawlera at http://proxy.crawlera.com:8010 (apikey: bc54ce6)
+2021-05-18 19:01:19 [root] INFO: CrawleraMiddleware: disabling download delays on Scrapy side to optimize delays introduced by Crawlera. To avoid this behaviour you can use the CRAWLERA_PRESERVE_DELAY setting but keep in mind that this may slow down the crawl significantly
+2021-05-18 19:01:19 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2021-05-18 19:01:21 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.lva-auto.fr/compte/login> (referer: None)
+2021-05-18 19:01:22 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (302) to <GET https://www.lva-auto.fr/boutique/enable-cookies> from <POST https://www.lva-auto.fr/boutique/customer/account/loginPost>
+2021-05-18 19:01:23 [scrapy.crawler] INFO: Received SIGINT, shutting down gracefully. Send again to force 
+2021-05-18 19:01:23 [scrapy.core.engine] INFO: Closing spider (shutdown)
+2021-05-18 19:01:25 [scrapy.crawler] INFO: Received SIGINT twice, forcing unclean shutdown
+2021-05-18 19:01:25 [scrapy.downloadermiddlewares.retry] DEBUG: Retrying <GET https://www.lva-auto.fr/boutique/enable-cookies> (failed 1 times): [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+2021-05-18 19:01:25 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'crawlera/delay/reset_backoff': 2,
+ 'crawlera/request': 3,
+ 'crawlera/request/method/GET': 2,
+ 'crawlera/request/method/POST': 1,
+ 'crawlera/response': 2,
+ 'crawlera/response/status/200': 1,
+ 'crawlera/response/status/302': 1,
+ 'downloader/exception_count': 1,
+ 'downloader/exception_type_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'downloader/request_bytes': 1994,
+ 'downloader/request_count': 3,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/request_method_count/POST': 1,
+ 'downloader/response_bytes': 5268,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 1,
+ 'downloader/response_status_count/302': 1,
+ 'elapsed_time_seconds': 5.505653,
+ 'finish_reason': 'shutdown',
+ 'finish_time': datetime.datetime(2021, 5, 18, 17, 1, 25, 180723),
+ 'httpcompression/response_bytes': 7789,
+ 'httpcompression/response_count': 1,
+ 'log_count/DEBUG': 3,
+ 'log_count/INFO': 14,
+ 'request_depth_max': 1,
+ 'response_received_count': 1,
+ 'retry/count': 1,
+ 'retry/reason_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'scheduler/dequeued': 3,
+ 'scheduler/dequeued/memory': 3,
+ 'scheduler/enqueued': 4,
+ 'scheduler/enqueued/memory': 4,
+ 'start_time': datetime.datetime(2021, 5, 18, 17, 1, 19, 675070)}
+2021-05-18 19:01:25 [scrapy.core.engine] INFO: Spider closed (shutdown)
